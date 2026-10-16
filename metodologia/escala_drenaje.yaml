@@ -1,0 +1,12 @@
+estado: pendiente
+version: "0.1"
+validada_por: null
+evidencia_validacion: null
+sentido: "Mayor valor debe representar mayor deficiencia"
+dimensiones: [captacion_conduccion, operatividad_mantenimiento]
+metodo_agregacion: null
+regla_faltantes: null
+indicadores: []
+# Cada indicador definitivo debe declarar id, dimension, definicion, unidad,
+# opciones/limites, puntuacion, sentido, peso, regla_no_aplicable y fuente.
+# No se proporciona una escala 0-3 ni ponderaciones sin validar.

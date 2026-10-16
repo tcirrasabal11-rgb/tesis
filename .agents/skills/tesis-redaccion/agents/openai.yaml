@@ -1,0 +1,4 @@
+interface:
+  display_name: "Redacción de la tesis"
+  short_description: "Redactar capítulos con evidencia trazable"
+  default_prompt: "Usa $tesis-redaccion para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

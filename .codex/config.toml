@@ -1,0 +1,14 @@
+# Configuración del proyecto. Ver docs/CONFIGURACION_CODEX.md.
+# El modelo se elige con /model según la cuenta. No se fijan IDs ni credenciales.
+model_reasoning_effort = "high"
+web_search = "live"
+sandbox_mode = "workspace-write"
+approval_policy = "on-request"
+
+[sandbox_workspace_write]
+network_access = true
+
+[agents]
+enabled = true
+max_concurrent_threads_per_session = 3
+interrupt_message = true

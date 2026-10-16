@@ -1,0 +1,26 @@
+{
+  "ronda": "R001",
+  "nota": "Las capturas enumeradas se usaron durante la revisión y se identifican en el inventario histórico. No se incluyen íntegramente en esta distribución; se aportan metadatos factuales en fuentes/documentos y URLs para consulta. Los hashes de captura del pase previo describen esos insumos históricos, no archivos prometidos en el ZIP.",
+  "no_incluidos": [
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F001_catalogo_astm.html",
+      "sha256_consulta": "b3986c6abf9871395f77cfb957536b603ce992d35f0577021a6526d42ca8fd0b"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F001_catalogo_astm.txt",
+      "sha256_consulta": "9c8b9f5490d65fdfcd622ab659852fe6c7d0b952cb0d2a903412ba628cfc65b5"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F011_repositorio.html",
+      "sha256_consulta": "0f3ff5d02ff3ce23bc01a779e7c59df2192e186d8bda12f9aeed04a32db821fd"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F011_repositorio.txt",
+      "sha256_consulta": "81b6f3574e3418eaaad398f9681e07f68ebe7f8e508192e0b93310c6f96b5a24"
+    }
+  ],
+  "metadatos_incluidos": [
+    "fuentes/documentos/F001_metadatos_consultados_R001.json",
+    "fuentes/documentos/F011_metadatos_consultados_R001.json"
+  ]
+}

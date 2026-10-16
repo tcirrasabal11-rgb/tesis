@@ -1,0 +1,46 @@
+test_bad_csv_width (test_tesis.DataAndStatistics.test_bad_csv_width) ... ok
+test_bad_date_rejected (test_tesis.DataAndStatistics.test_bad_date_rejected) ... ok
+test_constant_variable_rejected (test_tesis.DataAndStatistics.test_constant_variable_rejected) ... ok
+test_decimal_comma_requires_explicit_conversion (test_tesis.DataAndStatistics.test_decimal_comma_requires_explicit_conversion) ... ok
+test_declared_approval_requires_evidence (test_tesis.DataAndStatistics.test_declared_approval_requires_evidence) ... ok
+test_descriptions_track_missing (test_tesis.DataAndStatistics.test_descriptions_track_missing) ... ok
+test_duplicate_headers_rejected (test_tesis.DataAndStatistics.test_duplicate_headers_rejected) ... ok
+test_duplicates_not_silently_removed (test_tesis.DataAndStatistics.test_duplicates_not_silently_removed) ... ok
+test_evidence_traversal_rejected (test_tesis.DataAndStatistics.test_evidence_traversal_rejected) ... ok
+test_existing_output_not_silently_overwritten (test_tesis.DataAndStatistics.test_existing_output_not_silently_overwritten) ... ok
+test_field_period_must_match_project (test_tesis.DataAndStatistics.test_field_period_must_match_project) ... ok
+test_header_only_is_not_data (test_tesis.DataAndStatistics.test_header_only_is_not_data) ... ok
+test_holm_known_values (test_tesis.DataAndStatistics.test_holm_known_values) ... ok
+test_infinity_rejected (test_tesis.DataAndStatistics.test_infinity_rejected) ... ok
+test_invalid_render_png_is_rejected (test_tesis.DataAndStatistics.test_invalid_render_png_is_rejected) ... ok
+test_missing_evidence_rejected (test_tesis.DataAndStatistics.test_missing_evidence_rejected) ... ok
+test_missing_is_not_zero (test_tesis.DataAndStatistics.test_missing_is_not_zero) ... ok
+test_nan_rejected (test_tesis.DataAndStatistics.test_nan_rejected) ... ok
+test_output_originals_protected (test_tesis.DataAndStatistics.test_output_originals_protected) ... ok
+test_output_traversal_rejected (test_tesis.DataAndStatistics.test_output_traversal_rejected) ... ok
+test_pair_exclusions_are_recorded (test_tesis.DataAndStatistics.test_pair_exclusions_are_recorded) ... ok
+test_pci_boundaries (test_tesis.DataAndStatistics.test_pci_boundaries) ... ok
+test_pci_out_of_range (test_tesis.DataAndStatistics.test_pci_out_of_range) ... ok
+test_pearson_known_linear_pattern (test_tesis.DataAndStatistics.test_pearson_known_linear_pattern) ... ok
+test_pending_plan_rejected (test_tesis.DataAndStatistics.test_pending_plan_rejected) ... ok
+test_snapshot_does_not_alter_original (test_tesis.DataAndStatistics.test_snapshot_does_not_alter_original) ... ok
+test_snapshot_empty_folder_is_rejected (test_tesis.DataAndStatistics.test_snapshot_empty_folder_is_rejected) ... ok
+test_spearman_known_negative_pattern (test_tesis.DataAndStatistics.test_spearman_known_negative_pattern) ... ok
+test_synthetic_rejected_in_real_mode (test_tesis.DataAndStatistics.test_synthetic_rejected_in_real_mode) ... ok
+test_test_evidence_not_accepted_as_field_evidence (test_tesis.DataAndStatistics.test_test_evidence_not_accepted_as_field_evidence) ... ok
+test_too_few_computable_pairs_rejected (test_tesis.DataAndStatistics.test_too_few_computable_pairs_rejected) ... ok
+test_truncated_render_png_is_rejected (test_tesis.DataAndStatistics.test_truncated_render_png_is_rejected) ... ok
+test_zero_is_preserved (test_tesis.DataAndStatistics.test_zero_is_preserved) ... ok
+test_actual_template_structure (test_tesis.ProjectAndCLI.test_actual_template_structure) ... ok
+test_chapter_pending_markers_detected (test_tesis.ProjectAndCLI.test_chapter_pending_markers_detected) ... ok
+test_cli_doctor_returns_capabilities (test_tesis.ProjectAndCLI.test_cli_doctor_returns_capabilities) ... ok
+test_cli_empty_analysis_rejected (test_tesis.ProjectAndCLI.test_cli_empty_analysis_rejected) ... ok
+test_cli_synthetic_analysis_rejected (test_tesis.ProjectAndCLI.test_cli_synthetic_analysis_rejected) ... ok
+test_cli_verify (test_tesis.ProjectAndCLI.test_cli_verify) ... ok
+test_custom_agent_permissions_are_inherited (test_tesis.ProjectAndCLI.test_custom_agent_permissions_are_inherited) ... ok
+test_final_export_blocked_for_initial_template (test_tesis.ProjectAndCLI.test_final_export_blocked_for_initial_template) ... ok
+
+----------------------------------------------------------------------
+Ran 41 tests in 2.838s
+
+OK

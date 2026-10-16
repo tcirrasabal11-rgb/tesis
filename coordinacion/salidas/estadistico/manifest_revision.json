@@ -1,0 +1,73 @@
+{
+  "ronda": "R001",
+  "agente": "estadistico",
+  "fase": "F0/F2 provisional",
+  "fecha": "2026-10-14",
+  "ejecucion": "subagente de esta sesión; no CLI del usuario",
+  "python": "3.12.14",
+  "pruebas_ejecutadas": 11,
+  "pruebas_correctas": true,
+  "nombres_pruebas": [
+    "test_synthetic_rejected_in_real_mode",
+    "test_duplicates_not_silently_removed",
+    "test_missing_is_not_zero",
+    "test_spearman_known_negative_pattern",
+    "test_pearson_known_linear_pattern",
+    "test_constant_variable_rejected",
+    "test_pair_exclusions_are_recorded",
+    "test_too_few_computable_pairs_rejected",
+    "test_holm_known_values",
+    "test_pending_plan_rejected",
+    "test_declared_approval_requires_evidence"
+  ],
+  "insumos_sha256": {
+    "requisitos/avance_original.pdf": "947b2eb9d631236326de6f3ad211d6f2453a13d76ae6245b0f91c8778fbb8415",
+    "config/plan_analisis.yaml": "26964207222a003b4c0184ab0f14ccee4fc3387692358a0e903bbc6508156b08",
+    "tools/tesis.py": "a243222adc2597bbbf54243a958da0220f059f864ec2a02cf63451955940f02d",
+    "tests/test_tesis.py": "a4465de6286d2e6be76418694b95f12543e87a83317c8a2c20e4b8644fd660f1",
+    "coordinacion/salidas/especialista_drenaje/informe_auditoria_inicial.md": "8babe4dd33772c73580f392dcbb683ebc2544e27ab506b699b05065147e74fca",
+    "coordinacion/salidas/especialista_drenaje/propuesta_instrumento.md": "38bc38f79b985b86d27dbc56711ec8e1e18944597948716d51042a40fb6eb4e9",
+    "coordinacion/salidas/especialista_pavimentos/informe_auditoria_inicial.md": "7645658844a21904f7f41bce693d488c54629a2b52907844d046fe6d974ea3b4",
+    "coordinacion/salidas/especialista_pavimentos/propuesta_registro_pci.md": "91fec7993ad6270c407828cd94129de54b793101f4e224f3890844ec4203b4a0",
+    "coordinacion/salidas/investigador_fuentes/informe_auditoria_inicial.md": "14e84e248d44b5db59c2ca5558a0ff68f54c545f1d57a88ac5f5d371f02aea66",
+    "coordinacion/salidas/investigador_fuentes/propuesta_verificacion.json": "0e5402b1ba09bed42746ea32729c2beca827b87463f93540b0597e19ea80be12",
+    "coordinacion/salidas/investigador_fuentes/F005_Diniz_Melo_2023_ES.pdf": "4849eaaba70d5f92fbfb1f3306726e3dab7c5c6d87679af88834b9c19b5473a4",
+    "coordinacion/salidas/investigador_fuentes/F005_Diniz_Melo_2023_ES.txt": "3507f0f915e2871aabd1f5bb611ac746f2265c3b489124d0563bbef4f3f3f785"
+  },
+  "documentacion_software_consultada": [
+    {
+      "url": "https://docs.scipy.org/doc/scipy-1.17.0/reference/generated/scipy.stats.spearmanr.html",
+      "fecha": "2026-10-14",
+      "localizacion": "Descripción, precisión de p y ejemplo de permutación",
+      "estado": "abierta y leída"
+    },
+    {
+      "url": "https://docs.scipy.org/doc/scipy-1.17.0/reference/generated/scipy.stats.pearsonr.html",
+      "fecha": "2026-10-14",
+      "localizacion": "Descripción, hipótesis nula e interpretación",
+      "estado": "abierta y leída"
+    }
+  ],
+  "controles": [
+    {
+      "comando": "python tools/tesis.py doctor",
+      "codigo_salida": 0,
+      "resultado": "Python y dependencias presentes; Codex CLI no encontrado"
+    },
+    {
+      "comando": "python tools/tesis.py verify",
+      "codigo_salida": 0,
+      "resultado": "ok true; avisos esperados por plan, fuentes y campo pendientes"
+    },
+    {
+      "comando": "python tools/tesis.py validate-data --input datos/campo/pares_analisis.csv",
+      "codigo_salida": 2,
+      "resultado": "rechazo correcto: no hay observaciones"
+    },
+    {
+      "comando": "python tools/tesis.py describe --input datos/campo/pares_analisis.csv --output coordinacion/salidas/estadistico/descriptivos.json",
+      "codigo_salida": 2,
+      "resultado": "rechazo correcto; no generó descriptivos"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "fecha_registro_utc": "2026-10-14T06:59:29.345195+00:00",
+  "comando": [
+    "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3",
+    "-m",
+    "unittest",
+    "discover",
+    "-s",
+    "tests",
+    "-v"
+  ],
+  "exit_code": 0,
+  "pruebas": 41,
+  "salida": "coordinacion/revisiones/R001_pruebas_software.txt",
+  "alcance": "Pruebas de software y estructura; no validación académica ni prueba de descubrimiento CLI local."
+}

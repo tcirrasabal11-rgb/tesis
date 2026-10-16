@@ -1,0 +1,26 @@
+{
+  "ronda": "R001",
+  "pase": 3,
+  "estado": "expediente_para_revisor",
+  "archivos": {
+    "coordinacion/revisiones/auditoria_inicial.md": "87470bb53c278cc95bc85fa5c9d128f8fbc3114a5962bf37214d7c926784e73d",
+    "VALIDACION_PAQUETE.md": "53660326426162b817444af19b855ed539b0be24dd006141ac303e59d3787158",
+    "ESTADO.md": "7526e299766ea3a17edd4d1d191f5c9164d6016216937335c15a64a9c71f52c3",
+    "DECISIONES.md": "f1f91a05a8759e25bdaa1be262e93dd709cf490388f9b7eea9a8f07941f3b3d0",
+    "fuentes/registro.csv": "072ed638a0d5d4136fcf8b11fa450388c586791a9f04ed877b2fd223c4e6da20",
+    "fuentes/afirmaciones.csv": "a01d9cdaa948bfe8d6418ab7b1b37b0240346a5864b148ce988cd27968365990",
+    "fuentes/referencias.json": "beae34c1876db8fd3201aea5b5473ab6d8d99bcf71ba4b0976a4ada5a662e6ae",
+    "config/proyecto.yaml": "23c39720345782e1a0739d5ae2c5faa73a24d302d846f6ede5d89392df81e15e",
+    "docs/CONFIGURACION_CODEX.md": "c3a9cee172db60102219614c16bc488e3b5de948936a9e869bcea9882b91a510",
+    "EMPEZAR_AQUI.md": "2539023ec7d79b0ab8fdf6954ee2b9d36aa7cf8778fc162fffa9e3938a7f182b",
+    "docs/AGREGAR_DOCUMENTOS.md": "fde0710d4a1e4f3b148e8f737932f3eb612a26675d377fbef5ce7e8d0daadac5",
+    "prompts/08_INCORPORAR_DOCUMENTOS.md": "2b3c8234ea61a20f899d95c44c8aaf1f8daba2ffc5d08e1e9596384abb2f9753",
+    "coordinacion/salidas/investigador_fuentes/informe_auditoria_inicial.md": "14e84e248d44b5db59c2ca5558a0ff68f54c545f1d57a88ac5f5d371f02aea66",
+    "coordinacion/salidas/especialista_drenaje/informe_auditoria_inicial.md": "8babe4dd33772c73580f392dcbb683ebc2544e27ab506b699b05065147e74fca",
+    "coordinacion/salidas/especialista_pavimentos/informe_auditoria_inicial.md": "7645658844a21904f7f41bce693d488c54629a2b52907844d046fe6d974ea3b4",
+    "coordinacion/salidas/metodologo/informe_auditoria_inicial.md": "dcbb533802364e7f368616928bbf8f896a644bd94eefedffbf35b4c033211a50",
+    "coordinacion/salidas/estadistico/informe_auditoria_inicial.md": "fcef3efe76ab569ab94ee7d0d525e2f0136fbe78c771ba4ed06d2172e6df1d29",
+    "coordinacion/salidas/especialista_drenaje/respuesta_revision_cruzada.md": "273b6fca702039c72140713e098524462f94eb4f6de803acd04986c061b7ca5d",
+    "coordinacion/salidas/especialista_pavimentos/respuesta_revision_cruzada.md": "bdfd445834636576e4f67433fd1b4e1ff1d5010d43d6bc64a1458882bd40829a"
+  }
+}

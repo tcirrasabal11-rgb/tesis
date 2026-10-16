@@ -1,0 +1,4 @@
+interface:
+  display_name: "Metodología de investigación"
+  short_description: "Cerrar metodología e instrumentos de tesis"
+  default_prompt: "Usa $tesis-metodologia para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

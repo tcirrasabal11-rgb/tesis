@@ -1,0 +1,505 @@
+             UNIVERSIDAD POLITÉCNICA DEL PERÚ
+                        FACULTAD DE INGENIERÍA
+
+            ESCUELA PROFESIONAL DE INGENIERÍA CIVIL
+
+
+
+Relación entre las deficiencias del drenaje pluvial y el deterioro superficial del
+pavimento en el tramo de la avenida Pakamuros frente al Hospital General de
+                                    Jaén, 2026
+
+
+
+                                   Presentado por
+                           Triksi Catiuska Irrasabal Mejía
+
+
+
+                                     Asesor(a):
+
+
+
+                               Línea de investigación:
+
+
+
+
+                                  JAÉN - PERÚ
+                                        2026
+
+
+
+
+                                                                          Página 1
+                                                                 ÍNDICE
+
+Introducción ........................................................................................................................... 3
+CAPÍTULO I PLANTEAMIENTO DEL PROBLEMA ....................................................... 4
+1.1 Descripción de la realidad problemática .......................................................................... 4
+1.2 Formulación del problema ............................................................................................... 5
+1.3 Objetivos de la investigación ........................................................................................... 6
+1.4 Justificación de la investigación ...................................................................................... 6
+1.5 Delimitaciones de la investigación .................................................................................. 7
+1.6 Limitaciones y viabilidad de la investigación .................................................................. 8
+CAPÍTULO II MARCO TEÓRICO .................................................................................... 10
+2.1 Antecedentes de la investigación ................................................................................... 10
+2.2 Bases teóricas preliminares ............................................................................................ 12
+Referencias ........................................................................................................................... 14
+
+
+
+
+                                                                                                                                     Página 2
+                                        INTRODUCCIÓN
+
+       La conservación de las vías urbanas depende de varios factores que actúan
+simultáneamente. Entre ellos, el manejo de la escorrentía generada por la lluvia ocupa un lugar
+importante, ya que el agua que permanece sobre la calzada o ingresa a las capas del pavimento
+puede favorecer la pérdida de soporte, la aparición de fisuras, los desprendimientos y los baches.
+Por esta razón, el drenaje pluvial no debe entenderse únicamente como una obra
+complementaria, sino como un componente que contribuye a preservar la funcionalidad y la
+seguridad de la infraestructura vial.
+
+       En el ámbito nacional, el Reglamento de la Ley General de Drenaje Pluvial establece que
+los sistemas urbanos deben permitir la recolección, el transporte, el almacenamiento y/o la
+evacuación de las aguas de lluvia, mediante acciones de operación y mantenimiento que
+aseguren su funcionamiento (Ministerio de Vivienda, Construcción y Saneamiento [MVCS],
+2026). De forma complementaria, el Manual de Carreteras del Ministerio de Transportes y
+Comunicaciones [MTC] (2011) reconoce que las obras de drenaje son necesarias para proteger la
+infraestructura vial frente a la acción del agua.
+
+       El presente avance corresponde al plan de investigación. Desarrolla el planteamiento del
+problema y los antecedentes que sustentan el estudio titulado “Relación entre las deficiencias del
+drenaje pluvial y el deterioro superficial del pavimento en el tramo de la avenida Pakamuros
+frente al Hospital General de Jaén, 2026”. Se plantea una investigación aplicada, de enfoque
+cuantitativo, alcance correlacional y diseño no experimental de corte transversal. El estudio no
+pretende atribuir de manera exclusiva el deterioro del pavimento al drenaje, pues intervienen
+también el tránsito, la calidad de los materiales, la antigüedad de la obra y el mantenimiento. Su
+propósito es determinar si existe una asociación estadística entre el estado del drenaje pluvial y el
+deterioro superficial observado en los subtramos que integran el ámbito de estudio.
+
+       El Capítulo I presenta la realidad problemática, las preguntas y los objetivos, así como la
+justificación, la delimitación, las limitaciones y viabilidad. El Capítulo II reúne cinco
+antecedentes recientes y una base conceptual preliminar. En las etapas siguientes se completarán
+la formulación de hipótesis, la operacionalización de variables, el diseño metodológico, los
+instrumentos y la matriz de consistencia, respetando el esquema institucional.
+
+
+
+
+                                                                                            Página 3
+CAPÍTULO I
+PLANTEAMIENTO DEL PROBLEMA
+
+1.1 Descripción de la realidad problemática
+
+       La precipitación se convierte en escorrentía superficial cuando la capacidad de
+infiltración del suelo es superada o cuando el terreno se encuentra saturado. En las áreas urbanas,
+la presencia de superficies impermeables concentra y acelera ese flujo, por lo que el sistema de
+drenaje debe recolectar, conducir y evacuar el agua de forma segura. El Reglamento de la Ley
+General de Drenaje Pluvial considera como componentes de esta infraestructura a los sumideros,
+alcantarillas, colectores, canales y otras soluciones que reduzcan el riesgo de inundación
+(MVCS, 2026).
+
+       Desde la ingeniería vial, la presencia prolongada de agua en la superficie o dentro de la
+estructura de un pavimento constituye una condición desfavorable. Chu et al. (2023), al revisar
+investigaciones sobre drenaje de pavimentos, señalaron que el incremento de humedad en la
+subrasante reduce las propiedades mecánicas del suelo y puede acelerar el deterioro bajo cargas
+repetidas. De forma concordante, el MTC (2011) establece criterios de hidrología, hidráulica y
+drenaje para proteger la infraestructura de transporte frente a los efectos del agua.
+
+       Las investigaciones recientes no permiten asumir que el deterioro superficial se explica
+por un solo factor. Diniz y Melo (2023), en 19 tramos urbanos de João Pessoa, emplearon el
+Índice de Condición del Pavimento (PCI) y una evaluación de sumideros y cunetas; aunque
+identificaron condiciones deficientes en algunos elementos, la relación estadística encontrada fue
+débil. Este resultado es relevante porque obliga a medir la asociación en cada contexto, sin
+convertir una observación técnica en una afirmación causal.
+
+       En el Perú, la regulación vigente orienta a que las ciudades cuenten progresivamente con
+sistemas que recolecten, transporten, almacenen y/o evacuen las aguas de lluvia. Además,
+reconoce que el mantenimiento preventivo busca garantizar la operatividad de los componentes y
+reducir el riesgo de fallas (MVCS, 2026). En el ámbito vial, el MTC (2014) establece criterios
+técnicos para los pavimentos y sus capas de apoyo; por tanto, el control de la humedad y la
+evacuación del agua resultan pertinentes para la conservación de la vía.
+
+
+
+
+                                                                                          Página 4
+       El deterioro prematuro de pavimentos urbanos también ha sido documentado en el norte
+del país. Campos Tarrillo y Barreda Burga (2024) evaluaron las avenidas de una urbanización de
+Chiclayo y reportaron un PCI de 39, clasificado como pobre; los autores asociaron el daño
+observado con la ausencia de drenaje pluvial durante las lluvias. Aunque dicho estudio fue
+descriptivo y no probó una correlación, muestra la necesidad de registrar de manera sistemática
+tanto las fallas superficiales como el estado de los componentes de drenaje.
+
+       Para Jaén existe un antecedente de planificación urbana que identificó zonas bajas
+susceptibles a inundación y sectores de expansión con ausencia de solución de drenaje pluvial
+(Municipalidad Provincial de Jaén [MPJ], 2014). Este documento permite reconocer una
+condición territorial de interés; sin embargo, no determina la condición actual de cada vía ni
+cuantifica su relación con el deterioro superficial. Por ello, el diagnóstico local deberá
+sustentarse con levantamiento de campo, registro fotográfico georreferenciado y una ficha
+técnica aplicada a tramos urbanos comparables durante 2026.
+
+       La situación problemática se concreta en la falta de información local que vincule, bajo
+un mismo procedimiento de medición, las deficiencias observables de captación, conducción,
+evacuación y mantenimiento del drenaje con el estado superficial del pavimento en el tramo de la
+avenida Pakamuros ubicado frente al Hospital General de Jaén. Si esta información no se genera,
+la priorización de mantenimiento puede concentrarse solo en reparar la capa visible, sin contar
+con evidencia sobre la condición del drenaje que acompaña a los daños del pavimento. El estudio
+aportará una línea de base para orientar el diagnóstico técnico y la priorización de intervenciones
+en ese tramo vial.
+
+1.2 Formulación del problema
+
+1.2.1 Problema general
+
+       ¿Qué relación existe entre las deficiencias del drenaje pluvial y el deterioro superficial
+del pavimento en el tramo de la avenida Pakamuros frente al Hospital General de Jaén, 2026?
+
+
+
+
+                                                                                          Página 5
+1.2.2 Problemas específicos
+
+       ¿Qué relación existe entre las deficiencias en la captación y conducción superficial de las
+aguas pluviales y el deterioro superficial del pavimento en el tramo de la avenida Pakamuros
+frente al Hospital General de Jaén, 2026?
+
+       ¿Qué relación existe entre las deficiencias de operatividad y mantenimiento de los
+elementos de drenaje pluvial y el deterioro superficial del pavimento en el tramo de la avenida
+Pakamuros frente al Hospital General de Jaén, 2026?
+
+1.3 Objetivos de la investigación
+
+1.3.1 Objetivo general
+
+       Establecer la relación entre las deficiencias del drenaje pluvial y el deterioro superficial
+del pavimento en el tramo de la avenida Pakamuros frente al Hospital General de Jaén, 2026.
+
+1.3.2 Objetivos específicos
+
+       Establecer la relación entre las deficiencias en la captación y conducción superficial de
+las aguas pluviales y el deterioro superficial del pavimento en el tramo de la avenida Pakamuros
+frente al Hospital General de Jaén, 2026.
+
+       Establecer la relación entre las deficiencias de operatividad y mantenimiento de los
+elementos de drenaje pluvial y el deterioro superficial del pavimento en el tramo de la avenida
+Pakamuros frente al Hospital General de Jaén, 2026.
+
+1.4 Justificación de la investigación
+
+1.4.1 Justificación teórica
+
+       La investigación permitirá contrastar, en un contexto urbano amazónico, los
+planteamientos que describen el papel de la humedad y del drenaje en el desempeño del
+pavimento. La literatura técnica reconoce que el agua puede afectar la capacidad de soporte de
+las capas inferiores; no obstante, la magnitud de la relación con el deterioro superficial no debe
+asumirse de forma uniforme. Al analizar ambas variables con indicadores definidos, se producirá
+evidencia situada para discutir los hallazgos de estudios previos, especialmente el de Diniz y
+Melo (2023), que reportó una relación débil en un contexto urbano distinto.
+
+                                                                                          Página 6
+1.4.2 Justificación metodológica
+
+         El estudio propondrá una ficha de observación para valorar las deficiencias del drenaje
+pluvial en cada tramo y empleará una evaluación estandarizada del deterioro superficial mediante
+el Índice de Condición del Pavimento. La ASTM D6433-18 establece un procedimiento para
+inspeccionar fallas, registrar su severidad y densidad, y estimar el PCI en vías y áreas de
+estacionamiento. La aplicación conjunta de ambos registros y el análisis de correlación
+permitirán obtener datos comparables y trazables, con respaldo fotográfico y ubicación de cada
+tramo.
+
+1.4.3 Justificación práctica
+
+         Los resultados permitirán identificar cuáles son las deficiencias de drenaje que coinciden
+con peores condiciones superficiales de las vías estudiadas. Esta evidencia puede ser útil para
+priorizar inspecciones, limpieza de elementos colmatados, corrección de puntos de
+empozamiento y programación de mantenimiento vial. La investigación no diseñará ni ejecutará
+una obra de drenaje; aportará información técnica previa para que las decisiones posteriores se
+sustenten en un diagnóstico y no solo en la apariencia del daño.
+
+1.4.4 Justificación social y ambiental
+
+         Una vía con empozamientos, baches o fisuras afecta la movilidad cotidiana de peatones,
+motociclistas, vehículos de transporte y actividades comerciales. Asimismo, el manejo
+inadecuado de escorrentías favorece la acumulación de agua en el espacio urbano. La generación
+de evidencia local se alinea con la finalidad del Reglamento de Drenaje Pluvial, que busca
+reducir el riesgo de inundaciones y proteger la infraestructura y las actividades socioeconómicas
+(MVCS, 2026).
+
+1.5 Delimitaciones de la investigación
+
+1.5.1 Delimitación temática
+
+         El estudio abordará dos variables: deficiencias del drenaje pluvial y deterioro superficial
+del pavimento. La primera se observará mediante componentes de captación, conducción,
+evacuación, operatividad y mantenimiento. La segunda se evaluará mediante tipos de falla,
+
+
+
+                                                                                           Página 7
+severidad, densidad y PCI. No se realizará diseño hidráulico ni evaluación estructural destructiva
+de las capas del pavimento.
+
+1.5.2 Delimitación teórica
+
+       El análisis se sustentará en la normativa peruana de drenaje pluvial y de infraestructura
+vial, en el procedimiento PCI y en estudios que relacionan el agua, la humedad de la subrasante y
+el desempeño de pavimentos. La investigación se limitará a identificar relaciones estadísticas,
+por lo que no establecerá causalidad ni reemplazará estudios geotécnicos, de tránsito o de diseño
+hidráulico.
+
+1.5.3 Delimitación temporal
+
+       La recolección de datos se desarrollará durante el año 2026. El levantamiento de campo
+deberá registrar la fecha, las condiciones meteorológicas al momento de la inspección y la
+evidencia de empozamiento u obstrucción observada.
+
+1.5.4 Delimitación espacial y unidad de análisis
+
+       El ámbito espacial será el tramo pavimentado de la avenida Pakamuros ubicado frente al
+Hospital General de Jaén, en la ciudad de Jaén, provincia de Jaén, departamento de Cajamarca.
+La unidad de análisis será cada subtramo vial de longitud equivalente en que se divida ese
+ámbito. Durante el reconocimiento inicial se registrarán las progresivas, las intersecciones
+inmediatas y las coordenadas de inicio y fin, para que el límite espacial sea verificable. La
+selección de subtramos no se realizará según el daño superficial, sino que comprenderá de
+manera continua todo el frente vial delimitado.
+
+1.6 Limitaciones y viabilidad de la investigación
+
+1.6.1 Limitaciones
+
+       La evaluación superficial no permite confirmar por sí sola el estado interno de base,
+subbase o subrasante. Además, la condición de drenaje puede variar entre periodos de lluvia y
+estiaje, y no todos los tramos pueden contar con planos o expedientes técnicos disponibles. Estas
+limitaciones   se    reducirán   mediante   criterios   uniformes   de   inspección,   fotografías
+
+
+
+
+                                                                                         Página 8
+georreferenciadas, registro de fecha y condición climática, y revisión de la información pública
+que se encuentre disponible.
+
+1.6.2 Viabilidad
+
+       El estudio es viable porque la unidad de análisis se ubica en espacio público y puede ser
+observada sin intervenir la vía. Los recursos principales serán fichas de campo, cinta métrica o
+distanciómetro, dispositivo móvil con cámara y ubicación, equipo básico de seguridad y software
+de hoja de cálculo o estadístico. La aplicación del PCI y la ficha de drenaje requerirá validación
+por juicio de expertos antes de la recolección definitiva. Si se requiriera acceder a información
+municipal no pública, se solicitará formalmente la autorización correspondiente.
+
+
+
+
+                                                                                         Página 9
+CAPÍTULO II
+MARCO TEÓRICO
+
+2.1 Antecedentes de la investigación
+
+2.1.1 Investigaciones internacionales
+
+       Awwad (2021), en Jordania, examinó los efectos de la geometría de las vías y de
+parámetros de diseño sobre el drenaje del pavimento. El trabajo analizó la intensidad de lluvia, la
+pendiente longitudinal, la pendiente transversal, la velocidad de escorrentía, la profundidad del
+agua y el tiempo de drenaje. El autor concluyó que un sistema de drenaje adecuado y las
+operaciones de mantenimiento contribuyen a la sostenibilidad y vida útil de la vía, mientras que
+el agua acumulada favorece la formación de grietas y baches. Este antecedente aporta criterios
+para definir indicadores de captación y conducción superficial; sin embargo, no midió la
+correlación entre una calificación de drenaje y un índice de deterioro en vías urbanas.
+
+       Jiménez-U, Peña y López (2022), en Colombia, evaluaron el diseño de drenaje vial ante
+cambios de uso del suelo y clima mediante simulaciones en tres tramos de la vía Ibagué-
+Cajamarca y una serie de 129 años. Compararon enfoques estacionarios y no estacionarios para
+el análisis de caudales máximos. Los resultados mostraron que el análisis no estacionario mejora
+la predicción de los caudales y permite dimensionar el drenaje de forma más ajustada a la
+variabilidad climática y de cobertura del suelo. El estudio evidencia que el comportamiento
+hidrológico debe ser considerado en los diagnósticos viales; no obstante, no evaluó el deterioro
+superficial de tramos urbanos mediante PCI, aspecto que será abordado en Jaén desde una escala
+de inspección de campo.
+
+       Diniz y Melo (2023), en Brasil, analizaron la correlación entre la condición del
+pavimento y dos elementos de drenaje superficial en 19 tramos del barrio de Tambaú, João
+Pessoa. Aplicaron el método PCI para las vías y calificaron el estado de sumideros y cunetas
+mediante fichas de observación. Aunque se verificó la existencia de elementos en condición
+regular o deficiente, el análisis estadístico mostró una correlación débil entre la condición del
+pavimento y los elementos de drenaje evaluados. Los autores concluyeron que la gestión vial
+debe incorporar indicadores de ambos sistemas. Este antecedente es el más próximo al presente
+
+
+
+
+                                                                                          Página 10
+estudio porque integra las dos variables; a la vez, demuestra que la relación debe comprobarse en
+el contexto local y que no debe afirmarse causalidad a partir de una correlación.
+
+       Wang et al. (2024), en China, investigaron el daño prematuro de pavimentos urbanos de
+concreto mediante evaluaciones de campo en seis sitios. Aplicaron inspección visual, radar de
+penetración terrestre, penetrómetro dinámico de cono, permeámetro de perforación y ensayos de
+laboratorio. Encontraron que la baja capacidad de soporte y el drenaje insuficiente favorecían la
+acumulación de agua, la formación de vacíos y concentraciones de esfuerzo asociadas con fisuras
+superficiales. Este estudio aporta la explicación técnica de por qué la presencia de agua puede
+acompañar el deterioro; sin embargo, su diseño se orientó a pavimentos de concreto y a
+condiciones internas de cimentación, diferentes de la observación correlacional de fallas
+superficiales propuesta para Jaén.
+
+2.1.2 Investigaciones nacionales
+
+       Campos Tarrillo y Barreda Burga (2024), en Chiclayo, analizaron superficialmente el
+pavimento flexible de todas las avenidas de la urbanización Teresa de Calcuta para formular una
+propuesta de intervención. Desarrollaron una investigación aplicada, cuantitativa, descriptiva y
+no experimental; utilizaron el PCI como indicador de condición. Obtuvieron un valor de PCI de
+39, correspondiente a una condición pobre, con presencia de baches y otras fallas. Los autores
+atribuyeron el deterioro prematuro a la ausencia de drenaje pluvial durante las lluvias y
+recomendaron rehabilitación e implementación de estructuras de drenaje. Este antecedente aporta
+una referencia nacional cercana y el uso del PCI; sin embargo, al ser descriptivo, no estimó la
+relación estadística entre las deficiencias de drenaje y el deterioro superficial.
+
+       Torres Vásquez (2024), en Nueva Cajamarca, formuló un diseño de pavimentos y drenaje
+pluvial para calles del sector La Molina, donde se verificó la ausencia de un sistema de drenaje
+urbano. El estudio incorporó levantamiento topográfico, mecánica de suelos, hidrología y
+tránsito. Reportó valores de CBR entre 6.1 y 8.1, un tránsito de 1 416 158 ejes equivalentes y
+secciones de cuneta de 0.50 m por 0.60 m para la alternativa analizada. El aporte principal es
+mostrar la integración técnica de estudios previos al diseño cuando existen problemas de
+evacuación de lluvia. La brecha es que no evaluó la condición superficial mediante un índice ni
+cuantificó la asociación entre el funcionamiento del drenaje existente y el deterioro de vías
+urbanas.
+
+
+                                                                                       Página 11
+2.1.3 Síntesis de la brecha de investigación
+
+       Los antecedentes coinciden en que el agua de lluvia, la geometría de evacuación, el
+mantenimiento y la condición de las capas de apoyo son aspectos relevantes para la conservación
+vial. Sin embargo, difieren en escala, tipo de pavimento, instrumentos y finalidad. Los estudios
+internacionales revisados incluyen simulación hidrológica, diagnóstico de cimentación y
+evaluación correlacional; los nacionales se orientan principalmente al diagnóstico descriptivo o
+al diseño de soluciones. No se identificó un estudio que mida, en sectores urbanos de Jaén, las
+deficiencias de drenaje pluvial y el deterioro superficial con instrumentos aplicados de manera
+simultánea y que determine su relación estadística. Esta brecha justifica el presente estudio.
+
+2.2 Bases teóricas preliminares
+
+2.2.1 Drenaje pluvial urbano
+
+       El Reglamento de la Ley General de Drenaje Pluvial define la escorrentía superficial
+como la porción de lluvia que no se infiltra ni se evapora y que fluye por gravedad hacia canales,
+ríos o sistemas de drenaje. Asimismo, define la infraestructura de drenaje pluvial como el
+conjunto de componentes grises, verdes y/o azules destinados a gestionar el agua para reducir el
+riesgo de inundación (MVCS, 2026). Para este estudio, las deficiencias de drenaje pluvial se
+entenderán como las condiciones observables que limitan la captación, conducción, evacuación u
+operatividad del agua de lluvia en el tramo vial.
+
+       El MTC (2011) señala que el drenaje es parte de la protección de la infraestructura vial
+frente al agua. En el ámbito de la inspección visual, los componentes de interés serán las
+pendientes aparentes de la calzada, cunetas o sardinel-cuneta, sumideros, rejillas, alcantarillas,
+descargas, obstrucciones por sedimentos o residuos y evidencias de empozamiento. La definición
+de los indicadores definitivos se consolidará en la matriz de operacionalización y será validada
+por expertos.
+
+2.2.2 Deterioro superficial del pavimento
+
+       El deterioro superficial comprende las fallas visibles en la superficie de rodadura, tales
+como fisuras, baches, ahuellamientos, desprendimientos, parches y deformaciones. La ASTM
+International (2018) propone el Índice de Condición del Pavimento como un indicador de 0 a
+
+
+
+                                                                                          Página 12
+100 que se obtiene a partir del tipo, severidad y densidad de los deterioros observados. Valores
+más altos expresan mejor condición superficial.
+
+        Para evitar una simplificación del fenómeno, el PCI se interpretará junto con el registro
+individual de fallas. El análisis buscará establecer una relación estadística entre el puntaje de
+deficiencias de drenaje y la condición superficial, no demostrar que el drenaje sea la única causa
+de las fallas. Esta precisión es consistente con el alcance correlacional definido para el estudio.
+
+2.3 Términos básicos
+
+        Captación pluvial. Proceso mediante el cual el sistema recibe el agua de lluvia que
+escurre desde la calzada o áreas adyacentes hacia sumideros, cunetas u otros componentes.
+
+        Conducción. Traslado controlado de las aguas captadas a través de cunetas, canales,
+tuberías, alcantarillas u otras estructuras.
+
+        Empozamiento. Acumulación temporal de agua sobre la superficie de la vía debido a
+una evacuación insuficiente, obstrucciones o geometría desfavorable.
+
+        Índice de Condición del Pavimento. Indicador numérico de 0 a 100 que expresa la
+condición de la superficie a partir de fallas, severidad y densidad observadas.
+
+        Tramo vial urbano. Segmento delimitado de una vía ubicada en área urbana que se
+analiza como unidad para registrar condiciones de drenaje y deterioro superficial.
+
+
+
+
+                                                                                           Página 13
+                                      REFERENCIAS
+
+ASTM International. (2018). ASTM D6433-18: Standard practice for roads and parking lots
+       pavement condition index surveys. https://doi.org/10.1520/D6433-18
+
+Awwad, M. (2021). Studying the effects of roads geometry and design parameters on the
+       pavement drainage system. Civil Engineering Journal, 7(1), 49-58.
+       https://doi.org/10.28991/cej-2021-03091636
+
+Campos Tarrillo, C. W., & Barreda Burga, L. A. (2024). Análisis superficial del pavimento
+       flexible con fines de definir una propuesta de intervención en la Urb. Teresa de Calcuta
+       en el distrito de La Victoria, provincia Chiclayo, departamento Lambayeque - 2023
+       [Tesis de grado, Universidad Tecnológica del Perú]. Repositorio ALICIA.
+       https://hdl.handle.net/20.500.12867/9461
+
+Chu, X., Campos-Guereta, I., Dawson, A., & Thom, N. (2023). Sustainable pavement drainage
+       systems: Subgrade moisture, subsurface drainage methods and drainage effectiveness.
+       Construction and Building Materials, 364, 129950.
+       https://doi.org/10.1016/j.conbuildmat.2022.129950
+
+Diniz, M. I., & Melo, R. A. (2023). Analysis of the correlation between the condition of urban
+       pavements and elements of the drainage system. Revista ALCONPAT, 13(2), 220-234.
+       https://doi.org/10.21041/ra.v13i2.604
+
+Jiménez-U, M., Peña, L. E., & López, J. (2022). Non-stationary analysis for road drainage design
+       under land-use and climate change scenarios. Heliyon, 8(2), e08942.
+       https://doi.org/10.1016/j.heliyon.2022.e08942
+
+Ministerio de Transportes y Comunicaciones. (2011). Manual de carreteras: Hidrología,
+       hidráulica y drenaje. https://www.gob.pe/institucion/mtc/normas-legales/4443017-20-
+       2011-mtc-14
+
+Ministerio de Transportes y Comunicaciones. (2014). Manual de carreteras: Suelos, geología,
+       geotecnia y pavimentos. Sección suelos y pavimentos.
+       https://www.gob.pe/institucion/mtc/normas-legales/4441297-10-2014-mtc-14
+
+
+
+
+                                                                                       Página 14
+Ministerio de Vivienda, Construcción y Saneamiento. (2026). Decreto Supremo N.° 009-2026-
+       VIVIENDA, Reglamento del Decreto Legislativo N.° 1356, Ley General de Drenaje
+       Pluvial. El Peruano. https://busquedas.elperuano.pe/dispositivo/NL/2520332-4
+
+Municipalidad Provincial de Jaén. (2014). Plan de Desarrollo Urbano de la ciudad de Jaén al
+       2025: Síntesis problemática urbana.
+       https://munijaen.gob.pe/documentos/proyecto1/RESUMEN%20EJECUTIVO.pdf
+
+Torres Vásquez, M. A. (2024). Diseño de pavimentos y drenaje pluvial en las calles del sector La
+       Molina, distrito Nueva Cajamarca, departamento San Martín 2021 [Tesis de licenciatura,
+       Universidad Católica Santo Toribio de Mogrovejo].
+       https://hdl.handle.net/20.500.12423/7471
+
+Wang, W., Xiang, W., Li, C., Qiu, S., Wang, Y., Wang, X., Bu, S., & Bian, Q. (2024). A case
+       study of pavement foundation support and drainage evaluations of damaged urban
+       cement concrete roads. Applied Sciences, 14(5), 1791.
+       https://doi.org/10.3390/app14051791
+
+
+
+
+                                                                                      Página 15
+

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Auditoría académica"
+  short_description: "Auditar coherencia y evidencia académica"
+  default_prompt: "Usa $tesis-auditar para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

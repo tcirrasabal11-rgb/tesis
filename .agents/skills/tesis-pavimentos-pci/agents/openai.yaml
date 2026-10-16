@@ -1,0 +1,4 @@
+interface:
+  display_name: "Pavimentos y PCI"
+  short_description: "Revisar pavimento y procedimiento PCI"
+  default_prompt: "Usa $tesis-pavimentos-pci para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

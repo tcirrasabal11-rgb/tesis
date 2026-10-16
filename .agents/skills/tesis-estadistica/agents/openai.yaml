@@ -1,0 +1,4 @@
+interface:
+  display_name: "Estadística de la tesis"
+  short_description: "Analizar datos reales con plan justificado"
+  default_prompt: "Usa $tesis-estadistica para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

@@ -1,0 +1,57 @@
+{
+  "ronda": "R001",
+  "pase": 2,
+  "fecha": "2026-10-14",
+  "agente": "metodologo",
+  "ejecucion": "subagente_de_esta_sesion_no_cli_local",
+  "alcance": "auditoria_documental_y_propuestas_sin_aprobacion_academica",
+  "fuentes_recibidas": "aviso del coordinador recibido antes del cierre; leídos informe final y propuesta_verificacion",
+  "archivos_leidos_sha256": {
+    "requisitos/avance_original.pdf": "947b2eb9d631236326de6f3ad211d6f2453a13d76ae6245b0f91c8778fbb8415",
+    "requisitos/avance_texto_extraido.txt": "d31457fef78574719f9c18f941b3ff7f53baba89fbcabdb3e0ae74cd98b3bb4d",
+    "config/proyecto.yaml": "145addb55326f648f1e4d6241872fc7769259aaf15b61946ab9fa7faece4aada",
+    "config/plan_analisis.yaml": "26964207222a003b4c0184ab0f14ccee4fc3387692358a0e903bbc6508156b08",
+    "metodologia/matriz_consistencia.csv": "0797198d5a68c5719ed104e3667b3d7d83602a30f584dffa9d175cc5b4bf7c81",
+    "metodologia/operacionalizacion.csv": "51f843651f260cefd61652599906a2feca3e81aab3416a7717b4cbd88170fb65",
+    "metodologia/escala_drenaje.yaml": "a500148a97c58bf90de3998fdcbdbae50a76b914fafb3c14bc60453996a415c2",
+    "datos/DICCIONARIO.md": "371e62152ea35fe4b1e48b2f7a805617f332da97d41080fbe86f393a9e01d796",
+    "datos/campo/subtramos.csv": "540514051f1088ef343ebd97496c5dbeacd7f682af375d6a299dcaf4a4ab1df2",
+    "datos/campo/drenaje.csv": "15404086ec40e6546ae8b76441891a39830e789108d925501e62d78d71e5d322",
+    "datos/campo/fallas.csv": "6c8e6d2c006211468206af8d0b406df14d38fde5f29ef841e7dea9453e5e3af1",
+    "datos/campo/pci.csv": "4be12012253c59c02a1dc03b6ca4912bf7e940cc88540fe2b196c1ec92fd40f7",
+    "capitulos/04_metodologia.md": "eab9b950af37a551ba29134805b4e0653ab95dfb8d6ef77b032db2fd5c92865d",
+    "coordinacion/salidas/especialista_drenaje/informe_auditoria_inicial.md": "8babe4dd33772c73580f392dcbb683ebc2544e27ab506b699b05065147e74fca",
+    "coordinacion/salidas/especialista_drenaje/propuesta_instrumento.md": "38bc38f79b985b86d27dbc56711ec8e1e18944597948716d51042a40fb6eb4e9",
+    "coordinacion/salidas/especialista_pavimentos/informe_auditoria_inicial.md": "7645658844a21904f7f41bce693d488c54629a2b52907844d046fe6d974ea3b4",
+    "coordinacion/salidas/especialista_pavimentos/propuesta_registro_pci.md": "91fec7993ad6270c407828cd94129de54b793101f4e224f3890844ec4203b4a0",
+    "coordinacion/salidas/investigador_fuentes/informe_auditoria_inicial.md": "14e84e248d44b5db59c2ca5558a0ff68f54c545f1d57a88ac5f5d371f02aea66",
+    "coordinacion/salidas/investigador_fuentes/propuesta_verificacion.json": "0e5402b1ba09bed42746ea32729c2beca827b87463f93540b0597e19ea80be12",
+    "coordinacion/contextos/R001_ronda2_completo.json": "33d8c4a42d4b082b294bb3bf3e2330226497618d6b71bfdb0693d2dd2e8dac09"
+  },
+  "integridad": {
+    "R001_insumos": "7 de 7 coinciden",
+    "R001_ronda2_inicial": "4 de 4 coinciden",
+    "original_paginas": 15,
+    "R001_ronda2_completo": "6 de 6 coinciden"
+  },
+  "comprobaciones": {
+    "doctor": "Python 3.12.14 compatible; Codex CLI no localizado",
+    "verify": {
+      "ok": true,
+      "errores": [],
+      "avisos": [
+        "plan pendiente",
+        "referencias heredadas pendientes",
+        "originales de campo no registrados"
+      ]
+    },
+    "alcance": "estructural; no certifica la metodologia ni aprueba F2/F3"
+  },
+  "escrituras_permitidas": "coordinacion/salidas/metodologo/",
+  "observacion_estadistica_recibida": {
+    "medio": "mensaje del coordinador",
+    "fecha": "2026-10-14",
+    "contenido": "hipotesis bilaterales y empozamiento contexto coincidentes como propuestas; F005 no copiar contraste no pareado/umbral0.5; Spearman p asintotica requiere revisar pertinencia para n reducido/dependencia",
+    "informe_final_pendiente_de_integracion": true
+  }
+}

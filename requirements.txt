@@ -1,0 +1,6 @@
+# Versiones utilizadas en las pruebas de este kit. Python >= 3.11.
+PyYAML==6.0.3
+pypdf==6.10.0
+scipy==1.17.0
+numpy==2.3.5
+python-docx==1.2.0

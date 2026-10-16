@@ -1,0 +1,7 @@
+subtramo_id,fecha,pci,deficiencia_drenaje,deficiencia_captacion_conduccion,deficiencia_operatividad_mantenimiento,origen_pci,origen_drenaje,procedencia
+PRUEBA01,2000-01-01,95,1,1,1,,,sintetico_prueba
+PRUEBA02,2000-01-01,80,2,2,2,,,sintetico_prueba
+PRUEBA03,2000-01-01,65,3,3,3,,,sintetico_prueba
+PRUEBA04,2000-01-01,50,4,4,4,,,sintetico_prueba
+PRUEBA05,2000-01-01,35,5,5,5,,,sintetico_prueba
+PRUEBA06,2000-01-01,20,6,6,6,,,sintetico_prueba

@@ -1,0 +1,102 @@
+[
+  {
+    "archivo": "F001_catalogo_astm.html",
+    "bytes": 286262,
+    "sha256": "b3986c6abf9871395f77cfb957536b603ce992d35f0577021a6526d42ca8fd0b"
+  },
+  {
+    "archivo": "F001_catalogo_astm.txt",
+    "bytes": 9708,
+    "sha256": "9c8b9f5490d65fdfcd622ab659852fe6c7d0b952cb0d2a903412ba628cfc65b5"
+  },
+  {
+    "archivo": "F002_crossref.json",
+    "bytes": 4013,
+    "sha256": "a114e01593a9f6ed7b74939573d14daf87904525045155f89f3eba3c00d03828"
+  },
+  {
+    "archivo": "F004_crossref.json",
+    "bytes": 31101,
+    "sha256": "88bbefe1424cf37fb916c49b689bbcc0b755dcd56101610a6872047d51834941"
+  },
+  {
+    "archivo": "F005_Diniz_Melo_2023_ES.pdf",
+    "bytes": 568120,
+    "sha256": "4849eaaba70d5f92fbfb1f3306726e3dab7c5c6d87679af88834b9c19b5473a4"
+  },
+  {
+    "archivo": "F005_Diniz_Melo_2023_ES.txt",
+    "bytes": 43637,
+    "sha256": "3507f0f915e2871aabd1f5bb611ac746f2265c3b489124d0563bbef4f3f3f785"
+  },
+  {
+    "archivo": "F006_crossref.json",
+    "bytes": 22538,
+    "sha256": "15afc459a4c921466f26fb981d8f12ddb3435dc8af840de4a4e173375e314345"
+  },
+  {
+    "archivo": "F007_MTC_HHD_2011.pdf",
+    "bytes": 8781738,
+    "sha256": "0a1bdcd7c94016760642de91baf4d6e317e4cc85c529dfefae9a6bf76c8dcd88"
+  },
+  {
+    "archivo": "F007_MTC_HHD_2011.txt",
+    "bytes": 427464,
+    "sha256": "18a1e63e68c55023134f4d64bc201f6b338cee80c85eb032a519b95df2b31027"
+  },
+  {
+    "archivo": "F009_ElPeruano_DS009_2026.html",
+    "bytes": 273497,
+    "sha256": "377270a780ec33cd98c193521e042971907173fba527bb635c44b1a745b5e925"
+  },
+  {
+    "archivo": "F009_ElPeruano_DS009_2026.txt",
+    "bytes": 55635,
+    "sha256": "6e689f0cd01b6bfb92e65ac71bc0d98a3110481a0265c4837066c2611e4d57c5"
+  },
+  {
+    "archivo": "F010_MPJ_PDU_resumen.pdf",
+    "bytes": 10558981,
+    "sha256": "c8135c0c7c691021d3a25bb0d84b4f5381afb4bfc15d021e5efcd0bef0029732"
+  },
+  {
+    "archivo": "F010_MPJ_PDU_resumen.txt",
+    "bytes": 309936,
+    "sha256": "ccf1b1c35a95e852927567165148db38d07c2db813f8176a736f8b8fdf76b365"
+  },
+  {
+    "archivo": "F011_repositorio.html",
+    "bytes": 387080,
+    "sha256": "0f3ff5d02ff3ce23bc01a779e7c59df2192e186d8bda12f9aeed04a32db821fd"
+  },
+  {
+    "archivo": "F011_repositorio.txt",
+    "bytes": 4756,
+    "sha256": "81b6f3574e3418eaaad398f9681e07f68ebe7f8e508192e0b93310c6f96b5a24"
+  },
+  {
+    "archivo": "F012_crossref.json",
+    "bytes": 22219,
+    "sha256": "bf3a32e411b9f6b6e8cc9b51c69274417fd0140d0622c9c07f5c764fd8899b8c"
+  },
+  {
+    "archivo": "capturas_manifest.json",
+    "bytes": 11141,
+    "sha256": "db028531da7c9aeadc8cda25f9ccb720ccaa0f39b3c5f90d4e4852a8f3265d28"
+  },
+  {
+    "archivo": "informe_auditoria_inicial.md",
+    "bytes": 11472,
+    "sha256": "14e84e248d44b5db59c2ca5558a0ff68f54c545f1d57a88ac5f5d371f02aea66"
+  },
+  {
+    "archivo": "propuesta_verificacion.csv",
+    "bytes": 4382,
+    "sha256": "2136d64a876e604e84f60c8acd10775f27a60302cdea563c71ec90c680455f6c"
+  },
+  {
+    "archivo": "propuesta_verificacion.json",
+    "bytes": 7699,
+    "sha256": "0e5402b1ba09bed42746ea32729c2beca827b87463f93540b0597e19ea80be12"
+  }
+]

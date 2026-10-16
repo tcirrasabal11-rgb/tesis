@@ -1,0 +1,4 @@
+interface:
+  display_name: "Entregables Word y PDF"
+  short_description: "Generar y verificar entregables académicos"
+  default_prompt: "Usa $tesis-entregables para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

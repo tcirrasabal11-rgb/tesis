@@ -1,0 +1,13 @@
+{
+  "ronda": "R001",
+  "pase": 2,
+  "fecha": "2026-10-14",
+  "base": "coordinacion/contextos/R001_insumos.json",
+  "archivos": {
+    "coordinacion/salidas/especialista_drenaje/informe_auditoria_inicial.md": "8babe4dd33772c73580f392dcbb683ebc2544e27ab506b699b05065147e74fca",
+    "coordinacion/salidas/especialista_drenaje/propuesta_instrumento.md": "38bc38f79b985b86d27dbc56711ec8e1e18944597948716d51042a40fb6eb4e9",
+    "coordinacion/salidas/especialista_pavimentos/informe_auditoria_inicial.md": "7645658844a21904f7f41bce693d488c54629a2b52907844d046fe6d974ea3b4",
+    "coordinacion/salidas/especialista_pavimentos/propuesta_registro_pci.md": "91fec7993ad6270c407828cd94129de54b793101f4e224f3890844ec4203b4a0"
+  },
+  "bibliografia": "Informe final en preparación; no inferir lectura ni estado canónico desde notas preliminares."
+}

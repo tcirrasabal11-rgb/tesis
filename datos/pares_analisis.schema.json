@@ -1,0 +1,19 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Registro de un par de campo para la tesis",
+  "type": "object",
+  "required": ["subtramo_id", "fecha", "pci", "deficiencia_drenaje", "origen_pci", "origen_drenaje", "procedencia"],
+  "properties": {
+    "subtramo_id": {"type": "string", "minLength": 1},
+    "fecha": {"type": "string", "format": "date"},
+    "pci": {"type": ["number", "null"], "minimum": 0, "maximum": 100},
+    "deficiencia_drenaje": {"type": ["number", "null"], "minimum": 0},
+    "deficiencia_captacion_conduccion": {"type": ["number", "null"], "minimum": 0},
+    "deficiencia_operatividad_mantenimiento": {"type": ["number", "null"], "minimum": 0},
+    "origen_pci": {"type": "string", "minLength": 1},
+    "origen_drenaje": {"type": "string", "minLength": 1},
+    "procedencia": {"enum": ["campo_real", "sintetico_prueba"]}
+  },
+  "additionalProperties": false,
+  "$comment": "Esquema descriptivo para JSON después de parsear CSV. La herramienta aplica comprobaciones propias adicionales de IDs, periodo, evidencia y procedencia; no ejecuta automáticamente este esquema. Los máximos de drenaje dependen del instrumento validado."
+}

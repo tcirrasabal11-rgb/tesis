@@ -1,0 +1,4 @@
+interface:
+  display_name: "Drenaje pluvial urbano"
+  short_description: "Revisar drenaje e indicadores observables"
+  default_prompt: "Usa $tesis-drenaje para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

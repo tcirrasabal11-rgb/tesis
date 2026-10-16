@@ -1,0 +1,15 @@
+{
+  "ronda": "R001",
+  "fecha_utc": "2026-10-14T06:48:45.959283+00:00",
+  "version_entrada": "1.0.0",
+  "alcance": "Auditoría inicial documental; sin mediciones ni validación académica",
+  "archivos": {
+    "requisitos/avance_original.pdf": "947b2eb9d631236326de6f3ad211d6f2453a13d76ae6245b0f91c8778fbb8415",
+    "requisitos/avance_texto_extraido.txt": "d31457fef78574719f9c18f941b3ff7f53baba89fbcabdb3e0ae74cd98b3bb4d",
+    "config/proyecto.yaml": "145addb55326f648f1e4d6241872fc7769259aaf15b61946ab9fa7faece4aada",
+    "config/plan_analisis.yaml": "26964207222a003b4c0184ab0f14ccee4fc3387692358a0e903bbc6508156b08",
+    "metodologia/matriz_consistencia.csv": "0797198d5a68c5719ed104e3667b3d7d83602a30f584dffa9d175cc5b4bf7c81",
+    "fuentes/registro.csv": "a450e8400546c4ea5d5e664a4e026e9186bcf7db1393b346f8002fce12c0b900",
+    "AGENTS.md": "c802810af3702d53f2a0e514c533c02893b7f50c161e62465feb6da4d79b0caf"
+  }
+}

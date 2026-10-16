@@ -1,0 +1,961 @@
+--- PAGINA PDF 1 ---
+ 
+ 
+ 
+ 
+ 
+ 
+ © 2023 ALCONPAT Internacional 
+220 Revista ALCONPAT, Volumen 13, Número 2 (Mayo – Agosto 2023): 220 – 234  
+Revista de la Asociación Latinoamericana de Control de Calidad, Patología y Recuperación de la Construcción  
+Revista ALCONPAT 
+www.revistaalconpat.org 
+eISSN 2007-6835 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos 
+del sistema de drenaje 
+ 
+M. Diniz1* . R. Melo1  
+*Autor de Contacto: mariaingridydiniz@gmail.com  
+DOI: https://doi.org/10.21041/ra.v13i2.604  
+ 
+Recibido: 09/05/2022 | Correcciones recibidas: 23/03/2023 | Aceptado: 29/03/2023 | Publicado: 01/05/2023 
+ 
+ 
+RESUMEN 
+La investigación en cuestión tuvo como objetivo analizar la correlación entre el índice de condición 
+del pavimento y la condición de dos elementos de drenaje superficial: desagües pluviales y cunetas. El 
+estudio fue realizado a partir del análisis de 19 tr amos, distribuidos por el barrio de Tambaú, en João 
+Pessoa-PB. El cálculo del estado de los pavimentos se realizó por el método PCI y el estado de los 
+elementos de drenaje se verificó mediante análisis subjetivo. Los resultados de la investigación 
+mostraron cuando los elementos encajan o no en las condiciones ideales, y aunque los elementos de 
+drenaje son considerados en el desempeño del pavimento, la evaluación estadística mostró una débil 
+correlación entre la condición del pavimento y los elementos de drenaje evaluados. 
+Palabras clave: sistemas de infraestructura; estadística; caminos urbanos. 
+_______________________________________________________________ 
+1 Centro de Tecnologia, Universidade Federal da Paraíba, João Pessoa, Brasil. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Contribución de cada autor 
+En este trabajo, el autor 1 contribuyó con la actividad de revisión de literatura, recolección de datos, redacción del trabajo, discusión de 
+resultados y conclusiones, correspondiente al 60% del trabajo, el autor 2 contribuyó con la actividad de la idea original, re visión del 
+trabajo final, opiniones en las discusiones, correspondiente al 40%. 
+ 
+Licencia Creative Commons 
+Los derechos de autor (2023) son propiedad de los autores. Este trabajo es un artículo de acceso abierto publicado bajo los términos y 
+condiciones de una licencia internacional Creative Commons Attribution 4.0 International License (CC BY 4.0). 
+ 
+Discusiones y correcciones posteriores a la publicación 
+Cualquier discusión, incluyendo la réplica de los autores, se publicará en el primer número del año 2024 siempre y cuando la información 
+se reciba antes del cierre del tercer número del año 2023. 
+Citar como:  Diniz, M., Melo, R. (2023), " Análisis de la correlación entre el estado de los 
+pavimentos urbanos y elementos del sistema de drenaje ", Revista ALCONPAT, 13 (1), pp. 220 – 
+234, DOI: https://doi.org/10.21041/ra.v13i2.604  
+ 
+
+--- PAGINA PDF 2 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+221 
+Analysis of the drainage system between the condition of urban pavements 
+and drainage elements 
+ 
+ABSTRACT  
+The research in question aimed to analyze the correlation between the pavement condition index 
+and the condition of two surface drainage elements: storm drains and gutters. The study was carried 
+out from the analysis of 19 stretches, distributed by the neighborhood of Tambaú, in João Pessoa-
+PB. The calculation for the condition of the pavements was performed by the PCI method and the 
+condition of the drainage elements was verified by means of subjective analysis. The research 
+results showed when the element s fit or not in the ideal conditions, and although the drainage 
+elements are considered in the pavement performance, the statistical evaluation showed a weak 
+correlation between the pavement condition and the evaluated drainage elements. 
+Keywords: infrastructure systems; statistic; urban roads. 
+ 
+ 
+Análise da correlação entre a condição de pavimentos urbanos e elementos do 
+sistema de drenagem 
+ 
+RESUMO 
+A pesquisa em questão objetivou analisar a correlação entre o índice de condição dos pavimentos 
+e a condição de dois elementos de drenagem superficial: bocas de lobo e sarjetas. O estudo foi 
+realizado a partir da análise de 19 trechos, distribuídos pelo bairro de Tambaú, em João Pessoa -
+PB. O cálculo para a condição dos pavimentos foi realizado pelo método do PCI e a condição dos 
+elementos de drenagem foi verificada por meio de análise subjetiva. Os resultados da pesquisa 
+mostraram quando os elementos se enquadravam ou não nas condições ideais, e embora os 
+elementos de drenagem sejam considerados no desempenho dos pavimentos, a avaliação estatística 
+apresentou uma correlação fraca entre a condição dos pavimentos e os elementos de drenagem 
+avaliados. 
+Palavras-chave: sistemas de infraestrutura; estatística; vias urbanas. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Información Legal 
+Revista ALCONPAT es una publicación cuatrimestral de la Asociación Latinoamericana de Control de Calidad, Patología y 
+Recuperación de la Construcción, Internacional, A. C., Km. 6, antigua carretera a Progreso, Mérida, Yucatán, C.P. 97310, 
+Tel.5219997385893, alconpat.int@gmail.com, Página Web: www.alconpat.org  
+Reserva de derechos al uso exclusivo No.04 -2013-011717330300-203, eISSN 2007 -6835, ambos otorgados por el Instituto 
+Nacional de Derecho de Autor. Editor responsable: Dr. Pedro Castro Borges. Responsable de la última actualización de este 
+número, Unidad de Informática ALCONPAT, Ing. Elizabeth Sabido Maldonado. 
+Las opiniones expresadas por los autores no necesariamente reflejan la postura del editor. 
+La reproducción total o parcial de los contenidos e imágenes de la publicación se realiza en apego al código COPE y a la licencia 
+CC BY 4.0 de la Revista ALCONPAT. 
+
+--- PAGINA PDF 3 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+222 
+1. INTRODUCCIÓN 
+ 
+Consideradas como el principal medio de transporte, las carreteras son de gran importancia en el 
+desarrollo del país (PIRES E MENDES, 2021), y para que las carreteras cumplan adecuadamente 
+su función, deben tener un adecuado estado de conservación. 
+Un pavimento con una estructura que no se comporta adecuadamente puede tener consecuencias 
+no deseadas. En esta perspectiva, el drenaje de una vía ayuda en su conservación, además de 
+prevenir accidentes en las vías. Por lo tanto, uno de los principales objetivos del drenaje vial es 
+proteger la infraestructura de la acción negativa del agua, como la reducción de la estructura del 
+piso y el desmantelamiento de los vertederos (LIMA et al., 2022). 
+Según Pinheiro, Coutinho y Ferreira (2021), el sistema de drenaje es un elemento esencial en cuanto 
+al desempeño de la mayoría de los elementos que componen una vía urbana. Aún según el autor, 
+la correcta conducción del agua es la principal función del sistema de drenaje, pudiendo preservar 
+las características de las capas de diseño del pavimento, como la base, sub -base y subrasante, 
+además de asegurar una mayor durabilidad de los mismos. el pavimento de la calzada, además de 
+evitar la acumulación de agua en la superficie. 
+Una forma de asegurarse de que el sistema de drenaje funciona correctamente es comprobando el 
+buen estado de los elementos que lo componen. Además de la estructura, la limpieza y el 
+mantenimiento de los elementos también son fundamentales para que el sistema cumpla con sus 
+funciones de diseño. 
+Por lo tanto, el trabajo en cuestión se propuso evaluar la correlación entre el estado de los 
+pavimentos seleccionados y el estado de dos elementos superficiales de drenaje de los tramos: 
+alcantarillas y cunetas. A partir de la cor relación se pretende conocer en qué medida influye el 
+estado de conservación de los elementos de drenaje en el estado de los pavimentos. Finalmente, los 
+responsables de la gestión de los sistemas de infraestructura pueden utilizar las métricas 
+presentadas como ayuda para el mantenimiento y recuperación de las estructuras evaluadas. 
+ 
+2. REFERENCIAL TEÓRICO 
+ 
+2.1 Pisos 
+Los pavimentos de las carreteras son de gran importancia de cara al desarrollo de un país al ayudar 
+a la realización de servicios básicos, como el  transporte de mercancías y el movimiento de la 
+población. Dada su importancia, es necesario que las vías se encuentren en buen estado de 
+conservación para que puedan ofrecer sus servicios de forma adecuada y segura para los usuarios 
+(LIMA et al., 2022). 
+Una forma de comprobar si los pavimentos se encuentran en un estado de conservación aceptable 
+es calcular su índice de estado. Una de estas evaluaciones se puede hacer desde Pavement Índice 
+de condición (PCI), desarrollado por el Cuerpo de Ejército de los E stados Unidos Ingenieros 
+(USACE) en 1976. Desarrollado inicialmente solo para la evaluación de pavimentos 
+aeroportuarios, y posteriormente en 1979 adaptado a una versión específica para la evaluación de 
+pavimentos viales y urbanos. 
+De acuerdo con ASTM D6433-2018 - Práctica estándar para carreteras y estacionamientos _ acera 
+Encuestas de Índice de Condición, es necesario seleccionar una muestra de tamaño 225 m² ± 90m². 
+La evaluación consiste en realizar el levantamiento de defectos, además de la cantidad y severidad 
+de cada uno de ellos. La Tabla 1 presenta los tipos de defectos que deben ser identificados durante 
+la aplicación del método. 
+ 
+ 
+ 
+
+--- PAGINA PDF 4 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+223 
+Tabla 1. Defectos del pavimento asfáltico y unidad de medida para el Método PCI 
+Defecto Formulario 
+de medición Defecto Formulario 
+de medición 
+Piel de cocodrilo Área Parches Área 
+Exudación Área Agregado Pulido Área 
+Grieta en bloques Área Ollas Unidad 
+Elevaciones/asent
+amientos Metro Cruce ferroviario Área 
+Corrugación Área Hundimiento de huella 
+de rueda Área 
+hundimiento 
+localizado Área Deslizamiento de masa Área 
+Grieta de borde Metro Grietas por 
+deslizamiento de masas Área 
+Grietas de reflexión 
+conjunta Metro Hinchazón Área 
+Espacio entre el 
+pavimento y el 
+arcén 
+Metro Tener puesto Área 
+Grieta longitudinal 
+y 
+transverso 
+Metro - - 
+Fuente: ASTM (2018) - Adaptado 
+ 
+Para calcular el índice de condición del pavimento es necesario obtener los Valores de Deducción 
+(DV) según el tipo, severidad y extensión del defecto, que representa la influencia que tiene en la 
+condición del pavimento, que van de 0 a 100, donde 0 significa que el defecto no afecta la condición 
+del pavimento y 100 significa que el defecto tiene la máxima interferencia perjudicial. 
+Los valores de DV se obtienen con la ayuda de ábacos disponibles en ASTM D6433 -2018. 
+Sumando los DV, es posible obtener el Valor de Deducción Total (VTD) para los pisos analizados 
+con la ayuda de la ecuación 1. 
+ 
+VTD =  ∑ ∑ a(Tj, Si, Dij)xF(t, q)
+mi
+j=1
+                                                                                           (1)  
+p
+i=1
+ 
+ 
+En que: 
+a( Tj,Si ,Dij ): función de pérdida de capacidad para atender tráfico, cuyas variables independientes 
+son del tipo: 
+Tj : tipos de defectos; 
+Si: niveles de severidad; 
+Dij : densidades de defectos; 
+i: contador de tipos de defectos; 
+j: contador de niveles de gravedad; 
+p: número total de tipos de defectos; 
+mi: número de nivel de severidad para el tipo de defecto n; 
+F( t, q): factor de ajuste para reducir el  efecto del exceso de tipos de defectos. (t) depende del 
+número de funciones (a), y (q) es el número de valores numéricos de las funciones (a) mayor que 
+5. 
+
+--- PAGINA PDF 5 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+224 
+En posesión del VTD, es necesario corregirlo según el número de defectos presentes en cada 
+sección, según el ábaco 20 de la misma norma. Por lo tanto, es posible encontrar el Monto de 
+Deducción Corregido (VDC) y, por lo tanto, el valor de PCI resultante de la Ecuación 2. 
+𝑃𝐶𝐼 = 100 − 𝑉𝐷𝐶                                                                                                                                       (2) 
+A partir del valor obtenido para el PCI en el tramo analizado, el pavimento se clasifica según la 
+Tabla 2, variando su valor de 0 (mal estado) a 100 (excelente estado). 
+ 
+Tabla 2. Clasificación PCI 
+Clasificación valor pci 
+Excelente 86 – 100 
+Muy Bien 71 -85 
+Bien 56 – 70 
+Promedio 41 – 55 
+Malo 26 – 40 
+Muy Malo 11 - 25 
+Horrible 0 - 10 
+Fuente: Shahin (2005) 
+ 
+2.2 Drenaje de Pavimentos Urbanos 
+Según Corrêa y Dutra  (2018), el sistema de drenaje puede ser entendido como el conjunto de 
+elementos que tienen como objetivo garantizar la integridad de los caminos y su entorno, además 
+de promover la seguridad de los usuarios. Dichos dispositivos dirigen el agua a un lugar adecuado, 
+siendo debidamente planificados durante la construcción o restauración de una carretera (REIS, 
+2016). 
+Al referirse al sistema de drenaje urbano, es necesario entender su subdivisión en macrodrenaje y 
+microdrenaje (RESPLANDES et al., 2021). Según el Departamento de Ingeniería Sanitaria de la 
+Universidad de São Paulo (2015), el drenaje macro puede definirse como un cursor que dirige un 
+gran volumen de agua, como ríos y arroyos. En el caso del microdrenaje , se puede considerar como 
+la parte del sist ema encargada de dirigir el agua de lluvia al macrosistema. Este se compone de 
+elementos como canalones, arquetas, arquetas, pozos de visita y galerías. 
+En el caso de los pavimentos urbanos de una vía, la existencia de un sistema de microdrenaje para 
+la conducción del agua de lluvia es fundamental, ya que es necesario mantener dicha infraestructura 
+esencial en condiciones óptimas de funcionamiento (SOUZA, 2012). 
+En cuanto a la acumulación de agua, ya sea superficial o subterránea, puede ser un factor perjudicial 
+para las carreteras. Según Lima et al. (2022), la acumulación de agua en la calzada puede perjudicar 
+gravemente las condiciones de adherencia de la calzada, pudiendo provocar accidentes. 
+En el caso de las inundaciones, también es posible observar daños significativos en los pavimentos 
+y, en consecuencia, en la población. Además del cambio en el tráfico con la reducción visible de 
+la seguridad, el agua es capaz de infiltrarse en las capas del pavimento, reduciendo su vida útil. El 
+agua que queda contenida en las capas, además de la proveniente del nivel freático, puede causar 
+daños como la reducción de la capacidad de soporte de la capa de subrasante, además de 
+hundimiento e incluso ruptura (REIS, 2016). 
+ 
+3. MÉTODO DE TRABAJO 
+ 
+Para cumplir con el objetivo propuesto por la investigación, se desarrolló la siguiente secuencia de 
+actividades: 
+ 
+
+--- PAGINA PDF 6 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+225 
+i)  delimitación del área de estudio; 
+ii )  elaboración de formularios para la recolección de datos; 
+iii )  levantamiento de datos sobre el estado de los pavimentos; 
+iv )  levantamiento de datos sobre el estado de los elementos de drenaje; 
+v)  análisis de la correlación entre los resultados encontrados. 
+Los extractos evaluados son objeto de estudio de estudiantes de grado y posgrado de la Universidad 
+Federal de Paraíba – UFPB. Debido a la disponibilidad de una base de datos sobre los tramos en 
+cuestión (ítem 3.1) y por ser considerado un distrito turístico de la ciudad donde la calidad de las 
+vías debe presentarse en óptimas condiciones, se  decidió evaluar la correlación entre la 
+información. 
+En cuanto a los pavimentos, el levantamiento de defectos fue realizado mediante el análisis de 
+imágenes disponibles en la base de datos utilizada, utilizando el formulario disponible en la NBR 
+006/2003 – PRO. Para ayudar en la etapa de cuantificación de defectos, concomitantemente con la 
+medición, se realizó un registro fotográfico de cada defecto para poder evaluar su severidad, 
+auxiliando en la posterior utilización de los ábacos del anexo X3 de la Norma ASTM D6433 − 18, 
+durante la etapa de calificación. 
+Para obtener datos sobre el sistema de drenaje urbano superficial se realizó un levantamiento de 
+los elementos que componían la red, adaptado del estudio de Novaes et. Alabama. (2019), a partir 
+del llenado de los formularios elaborados con el fin de cuantificar la existencia de drenajes pluviales 
+y cunetas, así como la calificación de sus respectivas condiciones de conservación, las cuales 
+pueden ser buenas, regulares o pésimas. 
+ 
+3.1 Caracterización de los Extractos 
+Los tramos evaluados se distribuyeron por todo el barrio de Tambaú, en la ciudad de João Pessoa 
+- PB. Se escogieron caminos que contaran simultáneamente con pavimento flexible y sistema de 
+drenaje superficial. La ubicación de las secciones se muestra en la Figura 1. 
+ 
+ 
+Figura 1. Ubicación del Área de Estudio y Extractos 
+ 
+La información se puede encontrar información detallada sobre las ubicaciones de cada sección en 
+Tabla 3. Para mantener la proporcionalidad de las muestras, todas tenían la misma longitud de 80 
+metros. 
+
+
+--- PAGINA PDF 7 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+226 
+Tabla 3. Información sobre las Secciones 
+Tramo  Rango Camino Sentido 
+Límites  
+Comenzar Final Longitud 
+(m) 
+1 Izquierda 
+Camino Nuestro 
+Sra. dos 
+Navegantes 
+Tambaú 
+- 
+Manaíra 
+Espacio de luz del 
+ser 
+Mercado de 
+Artesanías - Av Ruy 
+Carneiro 
+80 
+2 Bien 
+Camino Nuestro 
+Sra. dos 
+Navegantes 
+Tambaú 
+- 
+Manaíra 
+Espacio de luz del 
+ser 
+Mercado de 
+Artesanías - Av Ruy 
+Carneiro 
+3 Izquierda AV. negociar Playa R Infante Dom 
+Henrique 
+AV. Prof. María 
+Sales 
+4 Bien AV. negociar Playa R Infante Dom 
+Henrique 
+AV. Prof. María 
+Sales 
+5 Izquierda AV. negociar Playa AV. Prof. María 
+Sales 
+Calle N. Sra. dos 
+Navegantes 
+6 Bien AV. negociar Playa AV. Prof. María 
+Sales 
+Calle N. Sra. dos 
+Navegantes 
+7 Izquierda Calle Infante Dom 
+Henrique 
+Tambaú 
+- 
+Manaíra 
+Avenida negociar AV. Olinda 
+8 Bien Calle Infante Dom 
+Henrique 
+Tambaú 
+- 
+Manaíra 
+Avenida negociar AV. Olinda 
+9 Izquierda Calle Helena 
+Meira Lima Centro AV. Prof. María 
+Sales 
+Calle Infante Dom 
+Henrique 
+10 Bien Calle Helena 
+Meira Lima 
+Centro AV. Prof. María 
+Sales 
+Calle Infante Dom 
+Henrique 
+11 Izquierda Calle Helena 
+Meira Lima 
+Centro Calle Monteiro 
+Lobato Rua Silvino Lopes 
+12 Bien Calle Helena 
+Meira Lima 
+Centro Calle Monteiro 
+Lobato 
+Antes del paso de 
+peatones con Rua 
+Silvino Lopes _ 
+13 Izquierda Calle Helena 
+Meira Lima 
+Centro AV. antonio lira Camino Nuestro 
+Sra. dos Navegantes 
+14 Bien Calle Helena 
+Meira Lima 
+Centro AV. antonio lira Camino Nuestro 
+Sra. dos Navegantes 
+15 Izquierda Rua Pres. Epitacio 
+Pessoa Besa 
+Camino Nuestro 
+Sra. dos 
+Navegantes 
+AV. Prof. María 
+Sales 
+16 Bien Rua Pres. Epitacio 
+Pessoa Besa 
+Camino Nuestro 
+Sra. dos 
+Navegantes 
+AV. Prof. María 
+Sales 
+17 Izquierda Rua Pres. Epitacio 
+Pessoa Besa 
+AV. Manoel 
+Cavalcante de 
+Sousa 
+AV. Prof. María 
+Sales 
+18 Bien Rua Pres. Epitacio 
+Pessoa Besa 
+AV. Manoel 
+Cavalcante de 
+Sousa 
+AV. Prof. María 
+Sales 
+19 Bien AV. Adm. 
+Tamandaré Besa AV. Olinda Cuadrado Esto 
+Antonio 
+ 
+ 
+ 
+
+--- PAGINA PDF 8 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+227 
+3.2 Análisis Estadística  
+Es posible comprobar la existencia de la relación, así como la intensidad, existente entre dos 
+variables del análisis de su correlación. Para ello, se utilizó el coeficiente de Correlación de Pearson 
+(r) presentado por la ecuación 3 (MERGH, 2019; OLIVEIRA et al., 2022). 
+ 
+𝑟 =
+∑ (𝑋𝑖 − 𝑋̅)(𝑌𝑖 − 𝑌̅)𝑛
+𝑖=𝑙
+√[∑ (𝑋𝑖 − 𝑋̅)²𝑛
+𝑖=𝑙 ][∑ (𝑌𝑖 − 𝑌̅)²𝑛
+𝑖=𝑙 ]
+                                                                                                    (3) 
+ 
+En que: 
+n: número de pares de observaciones; 
+Xi: observación i de la variable X; 
+Yi: observación i de la variable Y; 
+𝑋̅: promedio de los valores de X; 
+𝑌̅: promedio de los valores de Y. 
+De acuerdo con Francisco & Dantas Neto (2021), es posible tomar descansos para ayudar con 
+interpretación de los resultados de r, tal como se presentan en tabla 4. 
+ 
+Tabla 4. Interpretación de los Valores del Coeficiente de Correlación (r) 
+Coeficientes de correlación de Pearson (r) Tipos de Correlaciones 
+r=1 Perfecto positivo 
+0,8 ≤ r < 1 Fuerte positivo 
+0,5 ≤ r < 0,8 Positivo moderado 
+0,1 ≤ r < 0,5 Positivo débil 
+0 < r < 0,1 Íntimo Positivo 
+0 Nulo 
+0.1< r < 0 Negativo íntimo 
+-0,5 < r ≤ -0,1 Negativo débil 
+-0,8 < r ≤ - 0,5 Negativo Moderado 
+-1< r ≤ - 0,8 Fuerte negativo 
+r = -1 Perfecto negativo 
+Fuente: Francisco & Dantas Neto (2021) Adaptado 
+ 
+Para el análisis en cuestión, el valor PCI, debido a su metodología de cálculo presente más grande 
+exactitud de la cuantificación real del estado de condición del elemento evaluado (piso), será 
+considerada con variable independiente (X). Las variables dependientes serán por tanto los pozos 
+de visita (Y1) y los canalones (Y2). 
+ayudar en análisis estadística, se realizó la prueba estadística de hipótesis para conocer la diferencia 
+entre las medias obtenido. En este caso, se determinará lo siguiente hipótesis: 
+ 
+𝐻0: 𝜇1 − 𝜇2 = 0                                                                                                                                             (4) 
+ 
+𝐻𝐴: 𝜇1 − 𝜇2 ≠ 0                                                                                                                                             (5) 
+ 
+En que: 
+𝐻0: Hipótesis nula; 
+𝐻𝐴: Hipótesis alternativa; 
+μ 1 y μ 2: Promedios de las poblaciones 1 y 2, respectivamente (Siendo la población relacionada 
+
+--- PAGINA PDF 9 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+228 
+con los pavimentos y la población 2 cada uno de los elementos de drenaje a la vez). 
+En eso estudio, el caso considerado fue el de datos no apareados, con desviaciones estándar de la 
+población conocido, dando como resultado dos comparaciones de medias . El procedimiento 
+consiste en contrastar las diferencias de medias entre las poblaciones, ad optando el orden de 0,5 
+con base en el estudio de Medeiros et al. (2017). Luego, el análisis verifica lo siguiente hipótesis: 
+ 
+𝐻0: 𝜇𝑑 = 0,5                                                                                                                                                   (6) 
+ 
+𝐻𝐴: 𝜇𝑑 > 0,5                                                                                                                                                  (7) 
+ 
+En que: 
+𝜇𝑑: Diferencia de medias entre poblaciones. 
+ 
+4. RESULTADOS Y DISCUSIÓN 
+ 
+4.1 Estado del suelo 
+El levantamiento de los defectos encontrados en los pavimentos se muestra en la Tabla 5. Los 
+defectos de fisuración de bloque, elevación y asentamiento, corrugación, fisuración de reflexión de 
+juntas, desnivel del pavimento/pendiente lateral, cruce de ferrocarril, deslizamiento de masa, 
+fisuración por deslizamiento e hinchamiento fueron no encontrados durante la encuesta, por lo que 
+no se cuantifican los defectos antes mencionados en la Tabla 5. 
+ 
+Tabla 5. Cuantificación de Defectos de Pavimento 
+Tr. 
+TF E AL TB TLV R AP P TR D 
+Superfi
+cie [m²] 
+Superfici
+e [m²] 
+Superficie 
+[m²] Metro Metro Superfi
+cie [m²] 
+Superfi
+cie [m²] 
+Elemen
+tos. 
+Superfi
+cie [m²] 
+Superfi
+cie [m²] 
+1 - - - 12 143 5 - - - 50 
+2 88 - - - 90 dos - - 15 200 
+3 59 - 0.5 42 46 
+ 
+- 1 - 210 
+4 79 - 
+ 
+38.7 42 11.25 - - - 220 
+5 - - - - 43 4.25 - - - 38 
+6 - - - - 21 
+ 
+- 1 - 26 
+7 - - - - - - - - - 5 
+8 - - - - 35 - - - - 13 
+9 - 0.1 - - - - - - - 46 
+10 - - - - - 4.5 - - - 61 
+11 - - - - - dos - - - 9 
+12 - 0.5 - - - - - - - 19 
+13 - - - - - 1 6 - - - 
+14 - - - - - - - - - 36 
+15 - - - - 49 - - - - 73 
+16 32 - - - - - dos - - 54 
+17 - - - - 6 - - - - 80 
+18 - - - - - - - - - 32 
+19 - - - - - - - - - 15 
+Leyenda: TLV: Grieta longitudinal y transversal, TF: Grieta por fatiga, E: Exudación, AL: 
+Hundimiento localizado, TB: Grieta en el borde, R: Parche, AP: Agregado pulido, P: Cucharón, 
+TR: Huella de rueda, D: Desgaste. 
+
+--- PAGINA PDF 10 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+229 
+A partir de la evaluación del levantamiento de defectos de las secciones, s e es posible señalar que 
+el defecto con desgaste fue el mayor registro, apareciendo en casi todas las localidades evaluadas, 
+con excepción de la Sección 13. 
+Gran parte de las grietas presentadas pueden haber sido causadas por la reflexión de las grietas en  
+la base de los paralelepípedos. Es importante resaltar que no él era posible adquirir la información 
+con el Ayuntamiento sobre qué pavimentos flexibles evaluados tenían o No este tipo de base en 
+paralelo. la observación este factor solo era posible cuando  la base era expuesta debido a algunos 
+defectos del piso. 
+de acuerdo con Bernucci et al. (2008), estas grietas también pueden  ser causado por demasiado, 
+como la acción de cargas de tráfico repetitivas, la acción del clima (gradientes térmicos), la posible 
+envejecimiento del ligante y pérdida de flexibilidad, compactación ineficiente del revestimiento, 
+deficiencia en el contenido de ligante asfáltico, subdimensionamiento, asentamientos diferenciales, 
+entre otros. 
+Después de pesar el área afectada según lo determinado por la norma ASTM D6433/2018, fue 
+posible calcular el estado de los pavimentos a partir del PCI. Los valores del índice para cada tramo, 
+así como la respectiva clasificación, se encuentran en la Tabla 6. 
+ 
+Tabla 6. Clasificación de la condición de los pavimentos por el método PCI 
+Tramo PCI Clasificación 
+1 56 Bien 
+2 20 Muy malo 
+3 37 Malo 
+4 50 Promedio 
+5 81 Muy Malo 
+6 74 Muy Bien 
+7 98 Excelente 
+8 88 Excelente 
+9 92 Excelente 
+10 89 Excelente 
+11 94 Excelente 
+12 95 Excelente 
+13 99 Excelente 
+14 94 Excelente 
+15 62 Bien 
+16 64 Bien 
+17 83 Muy Bien 
+18 80 Muy Bien 
+19 85 Muy Bien 
+ 
+4.2 Estado de los Elementos de Drenaje 
+Se observó la existencia y condiciones de los elementos de drenaje (bocas y cunetas) en los tramos 
+evaluados. La información sobre los elementos se puede encontrar en Cuadro 7. Se constató la 
+ausencia de ambos elementos en los extractos 15 y 17. presencia concomitante de los elementos en 
+la mayoría de los tramos evaluados, con excepción de la sección 4, que no presentaba bocas de 
+lobo en el su extensión, sin embargo contado con presencia de cuneta. 
+ 
+ 
+ 
+
+--- PAGINA PDF 11 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+230 
+Tabla 7. Cuantificación y Calificación de Elementos de Drenaje 
+Tramo 
+Cuantificación de 
+Elementos 
+Calificación de Elementos 
+Boca de lobo Canal 
+Boca de 
+lobo Canal Bien Regular Horrible Bien Regular Horrible 
+1 3 Sí X - - - - X 
+2 2 Sí - X - - X - 
+3 1 Sí X - - - X - 
+4 0 Sí - - - - X - 
+5 1 Sí X - - - X - 
+6 1 Sí X - - - X - 
+7 2 Sí - - X - X - 
+8 2 Sí -- X - - X - 
+9 1 Sí X - - X - - 
+10 1 Sí X - - X - - 
+11 1 Sí X - - X - - 
+12 1 Sí X - - X - - 
+13 1 Sí - X - X - - 
+14 1 Sí X - - X - - 
+15 0 No - - - - - - 
+16 1 Sí X - - - X - 
+17 0 No - - - - - - 
+18 1 Sí - - X - X - 
+19 1 Sí X - - - X - 
+ 
+de acuerdo con la tabla 7, secciones 1, 2, 7 y 8 presentadas más de una boca de acceso a evaluar. 
+En este caso, solo uno calificación él era hecho en la columna de calificación del elemento, ya que 
+todas las alcantarillas de un mismo tramo tenían la misma condición, como los tramos 2 y 8, que 
+tenían dos pozos cada uno, y ambas piezas estaban en regular estado. 
+Él era posible comprobar que la mayoría de las alcantarillas de los tramos , sumando un total de 
+57.9%, en forma en buen estado. 
+En cuanto al estado de las canaletas, solo el tramo 1 presentó las condiciones mal. Entonces, incluso 
+si la sección tiene presentó 3 alcantarillas, el estado de la cuneta posiblemente impide el 
+direccionamiento de agua hacia ellos, lo que interfiere con el funcionamiento del sistema. Los 
+demás tramos tenían las canaletas en regular (52,6%) o buenas (31,6%) condiciones. 
+ 
+4.3 Correlación entre la Condición del Pavimento y los Elementos de Drenaje 
+La Tabla 8 presenta la comparación entre los índices encontrados para la condición de cada 
+elemento evaluado. Para permitir la comparación entre los datos, adaptados de Silva, Diniz y Melo 
+(2020), los valores de PCI se dividieron por 25 (veinticinco) y se convirtieron a la misma escala 
+que la condición de las canaletas y alcantarillas, o, es decir, valores entre 0 y 4. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+
+--- PAGINA PDF 12 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+231 
+Tabla 8. Comparación entre índices de condición de los elementos evaluados 
+Tramo 
+Valores Clasificación de condición 
+PCI (Pisos) bocas 
+de lobo Canal PCI (Pisos) bocas de 
+lobo Canal 
+1 2.24 3 1 Bien Bien Horrible 
+2 0.8 2 2 Muy Malo Regular Regular 
+3 1.48 3 2 Malo Bien Regular 
+4 2 0 2 Promedio no existe Regular 
+5 3.24 3 2 Muy Malo Bien Regular 
+6 2.96 3 2 Muy Bien Bien Regular 
+7 3.92 1 2 Excelente Horrible Regular 
+8 3.52 2 2 Excelente Regular Regular 
+9 3.68 3 3 Excelente Bien Bien 
+10 3.56 3 3 Excelente Bien Bien 
+11 3.76 3 3 Excelente Bien Bien 
+12 3.8 3 3 Excelente Bien Bien 
+13 3.96 2 3 Excelente Regular Bien 
+14 3.76 3 3 Excelente Bien Bien 
+15 2.48 0 0 Bien no existe No existe 
+16 2.56 3 2 Bien Bien Regular 
+17 3.32 0 0 Muy Bien no existe No existe 
+18 3.2 1 2 Muy Bien Horrible Regular 
+19 3.4 3 2 Muy Bien Bien Regular 
+ 
+De la tabla 5 se observa que en 5 tramos (9, 10, 11, 12 y 14) el estado de todos los elementos 
+evaluados fue máximo, siendo “excelente” para los pavimentos y “bueno” para los desagües 
+pluviales y cunetas. Sin embargo, aunque lo mejor evaluación del piso ta mbién se ha conseguido 
+en los tramos 7, 8 y 13, el estado de los elementos de drenaje no alcanzó la misma clasificación, 
+variando entre “regular” y “terrible”. 
+Es necesario resaltar la situación. presentados por los extractos 15 y 17, que, aun sin ninguno de 
+los elementos de drenaje evaluados en la investigación presentes en las carreteras, el pavimento se 
+presentó en condiciones aceptable para los usuarios, con el segundo mejor clasificación en la escala 
+presentada anteriormente en Tabla 2. Este resultado entra en conflicto en el sentido en que se 
+sugiere que para un bien funcionamiento de las carreteras es necesaria la dirección cantidad 
+adecuada de agua presente en la superficie del pavimento. 
+La Tabla 9 presenta los valores promedio, desviación patrón y varianza de los resultados 
+encontrados para cada elemento evaluado. la desviación estándar se consideró del tipo de muestreo 
+(n-1). 
+ 
+Tabla 9. Media y Desviación Índices de condición de elemento estándar 
+Elemento Promedio 
+(μ) 
+Desvío Estándar 
+muestra 
+(σ) 
+diferencia 
+(σ²) 
+Pisos (PCI) 3.03 0.89 0.79 
+bocas de lobo 2.16 1.17 1.37 
+canalones 2.05 0.91 0.82 
+ 
+
+--- PAGINA PDF 13 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+232 
+Es posible observar que para los tres elementos evaluados (Tabla 9), la desviación estándar fue 
+alto, lo que indica una alta dispersión entre los valores recolectados en el campo. 
+También él era Se realiza una comparación entre los elementos en base a la diferencia entre los 
+promedios de los resultados de cada evaluación para verificar la hipótesis nula previamente 
+determinada que se presenta en Tabla 10. 
+ 
+Tabla 10. Diferencia de Medias y Análisis de Hipótesis Nula _ 
+Análisis diferencia de medias 
+(µd) _ 
+hipótesis nula 
+(H0) 
+Pavimentos x Bocas de Lobo 0.88 rechazate a ti mismo 
+Pisos x Canaletas 0.98 rechazate a ti mismo 
+ 
+Es posible registrarse (Tabla 10), Rechazo de la hipótesis nula en ambos análisis realizados, ya que 
+se presentó la diferencia entre los elementos evaluados por encima de 0,5. Por lo tanto, los valores 
+encontrados no pueden considerarse aceptable para la correlación entre los elementos. 
+Todavía para evaluar el nivel de correlación, el análisis se realizó por separado para cada elemento 
+de drenaje combinado con el índice de condición del pavimento, o, es decir, se verificó la 
+correlación entre la condición d e los pavimentos y los desagües pluviales, y luego la correlación 
+entre los pavimentos y las cunetas. Los resultados encontrados se presentan en Tabla 11. 
+ 
+Tabla 11. Coeficientes de correlación y determinación de Pearson 
+Combinación 
+Coeficiente de 
+correlación 
+(R) 
+Coeficiente de 
+Determinación 
+(r²) 
+Pavimentos x Bocas de Lobo 0.14 0.02 
+Pisos x Canaletas 0.39 0.15 
+ 
+De la Tabla 11, es posible verificar que ambas correlaciones estuvieron dentro del intervalo de 0.1 
+≤ r ≤ 0.5, siendo por lo tanto considerado como débil y positivo. Sin embargo, es necesario señalar 
+que la comparación con la interpretación de Francisco y Dantas Neto (2021) se considera arbitraria, 
+ya que los valores no tener en cuenta el contexto del estudio. 
+Aunque los resultados no mostrar un comportamiento claro de Ecuación de tercer grado, en un 
+intento de mejorar el valor de r², una regresión polinomi al de grado 3 para ambos análisis . De la 
+Figura 2, es posible observar la dispersión entre la condición de los pavimentos relacionada con la 
+condición de las alcantarillas (Figura 2-A) y cunetas (Figura 2-B), respectivamente. 
+ 
+ 
+ 
+
+--- PAGINA PDF 14 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+233 
+ 
+ 
+Figura 2. Regresión polinomial: A) Pisos x Canaletas, B) Pisos x Canaletas 
+ 
+Del análisis de los resultados es posible comprobar que por primera verificación (Figura 2 -A) se 
+presenta la dispersión de datos con exactitud bajo, en el que el intento de ajuste polinomial de la 
+curva no resultó ser adecuado, con un valor de r²<0,1, considerado bajo. En el segundo caso (Figura 
+2-B), los resultados mostraron mejor exactitud en comparación con el primero análisis _ En el caso 
+del ajuste de curvas, el resultado mostró comportamiento medianamente satisfactorio, logrando un 
+r²=0,4. 
+ 
+5. CONSIDERACIONES FINALES 
+ 
+A partir del levantamiento bibliográfico, los elementos de drenaje fueron presentados como 
+criterios primordiales para el buen desempeño de los pavimentos, y,  aunque la evaluación 
+estadística ha mostrado una débil correlación entre el estado de los pavimentos y los elementos de 
+drenaje evaluados, es necesario resaltar la nivel de complejidad de los elementos viales urbanos, 
+tales como la presencia de otros sist emas de infraestructura (distribución de agua, alcantarillado, 
+energía, gas, etc.), uso, frecuencia de mantenimiento correctivo, existencia de mantenimiento 
+preventivo, entre otros. 
+y = -0,1326x3 + 1,1684x2 - 2,9519x + 3,9959 
+R² = 0,0444
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+0 0.5 1 1.5 2 2.5 3 3.5 4
+y = 0.1729x3 - 0.7151x2 + 0.3533x + 2.2185
+R² = 0.403
+0
+0.5
+1
+1.5
+2
+2.5
+3
+3.5
+4
+0 0.5 1 1.5 2 2.5 3 3.5 4
+(A) 
+(B) 
+
+--- PAGINA PDF 15 ---
+ 
+                                                                              Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+                     Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+Diniz, M., Melo, R. 
+234 
+En cuanto al estado de la infraestructura analizada, los datos recabados y  evaluados presentan un 
+panorama completo de la evaluación de la situación, ya que para cada elemento se encontraron 
+todo tipo de condiciones existentes en los formularios de evaluación, desde sistemas considerados 
+en buen estado hasta aquellos clasificada como la peor condición. Por lo tanto, esta representación 
+holística de los sistemas de infraestructura podría proporcionar combinaciones de situaciones para 
+ejemplificar la necesidad y la importancia de monitorear la condición de los elementos. 
+La indicación de la severidad, alcance y extensión resultó adecuada al contexto de la obra, sin 
+embargo, para hacerlo aún más coherente con la realidad registrada, se recomienda calcular el 
+estado de los pavimentos por otros métodos, tales como como angustia Índice de Manifestación 
+Nivel Red (DMINL, 2010) y Pavimento Urbano Índice de Estado (UPCI, 2015), además de relevar 
+el estado de otros elementos presentes en la vía que puedan influir en el estado de los pavimentos. 
+Si bien no fue objetivo de la investigación sug erir propuestas de mantenimiento de los elementos 
+evaluados, la clasificación de niveles de severidad junto con la integración de los datos de los 
+elementos, se presentó como un instrumento viable para planificar y señalar prioridades de 
+intervención en la  viales, así como evaluaciones de aceptabilidad del estado de funcionalidad y 
+utilidad de los elementos, pudiendo así establecer metas para posibles intervenciones de 
+mantenimiento por parte de los organismos responsables. 
+ 
+6. REFERENCIAS 
+ 
+ASTM International. (2018), ASTM D6433 -18, Standard Practice for Roads and Parking Lots 
+Pavement Condition Index Surve. DOI: https://doi.org/10.1520/D6433-18  
+Bernucci, L. B., et al. (2008), “Pavimentação asfáltica: Formação básica para engenheiros.”  
+1°ed. Programa Asfalto nas Universidades, Petrobras Distribuidora S.A. 
+DEPARTAMENTO NACIONAL DE INFRAESTRUTURA DE TRANSPORTES. (2003). 
+NORMA 006/2003 – PRO: Avaliação objetiva da superfície de pavimentos flexíveis e semi-rígidos 
+– Procedimento. Rio de Janeiro: DNIT. 
+Francisco, M. R. P., Dantas Neto, J. (2021), A282 Água: uso racional e sustentável. 113 f.: il. color. 
+Campina Grande: EPTEC. 
+Lima, W. A. S., Sousa, J. P., Matos, O. S., Silva, F. G. S., Oliveira, M. M., Pacheco, G. V. (2022), 
+Sistemas de drenagem: a importância para a infraestrutura do transporte rodoviário brasileiro.  
+Brazilian Road Transport Infrastructu re, v.8, n.3, p. 17813 -17831. 
+https://doi.org/10.34117/bjdv8n3-153 
+Medeiros, R. S. , Albuquerque, T. P. , Morais, L. M. B. , Araújo, L, G, C. , Melo, R. A. (2018), 
+“Avaliação Das Condições De Conservação De Pavimentos, Drenagem E Calçadas Em Vias Da 
+Cidade De João Pessoa.” 32º Congresso de Pesquisa e Ensino em Transporte da ANPET, p. 1297–
+1308.  
+Mergh, L. S. (2019), “Análise de Indicadores da Gestão de Produção em Ob ras Corporativas”, 
+Dissertação de Mestrado em Construção Civil. Universidade Federal de Mina Gerais,  Belo 
+Horizonte. 
+Novaes, M. P. , Carvalho, M. B. , Silva, D. C. , Rodrigues, H. S. , Amorim, M. C. C. (2019), 
+Avaliação das condições de infraestrutura em drenagem pluvial urbana no munícipio de Curaçá-
+BA. Brazilian Journal of Development, Curitiba, v. 5, n. 11, p. 25043 -25048. 
+https://doi.org/10.34117/bjdv5n11-178 
+Oliveira, T. S. , Anjos, J. S. , Ribeiro, S. E. , Oliveira, D. M. (2022), Análise Descritiva e de 
+Correlação dos Indicadores de Desempenho: Custo, Prazo E Ritmo. Revista de Engenharia e 
+Tecnologia.  V. 14, Nº. 1, 2022. ISSN 2176-7270 
+ 
+ 
+
+--- PAGINA PDF 16 ---
+ 
+   Revista ALCONPAT, 13 (2), 2023: 220 – 234 
+ 
+Análisis de la correlación entre el estado de los pavimentos urbanos y elementos del sistema de drenaje   
+                                                                                                                                                    Diniz, M., Melo, R. 
+235 
+Pires, J. C. M. , Mendes, A. T.  (2021), Manifestações patológicas em pavimentação asfáltica: 
+estudo de caso na TO-050, no trecho do anel viário em Porto Nacional/TO. Engineering Sciences, 
+v.9, n.1, p.28-39. http://doi.org/10.6008/CBPC2318-3055.2021.001.0004 
+Resplandes, I. S., Toledo, F. R. S. , Resplandes, H. D. de A., Santos, W. S., Borges, K., Carvalho, 
+C. M. (2021). Ausência de sistemas de drenagem urbana nos pavimentos de Santana do Araguaia-
+PA e seus impactos.  The Journal of Engineering and Exact Sciences, 7(1), 12111 –01. 
+https://doi.org/10.18540/jcecvl7iss1pp12111-01-09e 
+Silva, A. N. A., Diniz, M. I L., Melo., R. A. (2020). “Avaliação das condições do pavimento em 
+vias urbanas na cidade de João pessoa/PB: uma comparação entre índices” in: 34º Congresso de 
+Pesquisa e Ensino em Transportes da ANPET. Anais do 34º ANPET - Infraestruturas.  
+ 

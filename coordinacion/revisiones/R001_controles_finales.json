@@ -1,0 +1,84 @@
+{
+  "fecha_utc": "2026-10-14T07:11:45.351048+00:00",
+  "version": "1.1.0",
+  "pruebas_software": "R001_pruebas_software.json",
+  "comandos": {
+    "doctor": {
+      "exit_code": 0,
+      "resultado": {
+        "python": "3.12.14",
+        "python_compatible": true,
+        "dependencias": {
+          "PyYAML": "6.0.3",
+          "pypdf": "6.10.0",
+          "numpy": "2.3.5",
+          "scipy": "1.17.0",
+          "python-docx": "1.2.0"
+        },
+        "herramientas": {
+          "codex": null,
+          "git": "/usr/local/bin/git",
+          "pandoc": "/usr/bin/pandoc",
+          "libreoffice": null,
+          "soffice": "/opt/codex/runtimes/codex-primary-runtime/dependencies/bin/override/soffice",
+          "pdftoppm": "/opt/codex/runtimes/codex-primary-runtime/dependencies/bin/override/pdftoppm"
+        },
+        "codex_version": null,
+        "avisos": [
+          "Codex debe confirmar descubrimiento de skills y perfiles en la instalación real.",
+          "Pandoc es opcional hasta exportar; LibreOffice y pdftoppm hasta renderizar.",
+          "Los controles del kit no certifican validación académica ni suficiencia de la muestra."
+        ]
+      }
+    },
+    "verify": {
+      "exit_code": 0,
+      "resultado": {
+        "ok": true,
+        "errores": [],
+        "avisos": [
+          "Plan de análisis pendiente: estado esperado en una plantilla sin campo.",
+          "Hay referencias heredadas pendientes; no usarlas como verificadas.",
+          "Originales de campo aún no registrados; esperado antes de la recolección."
+        ],
+        "alcance": "Validación estructural propia. No ejecuta Codex ni certifica la investigación."
+      }
+    },
+    "audit-citations": {
+      "exit_code": 2,
+      "resultado": {
+        "errores": [],
+        "pendientes": [
+          "capitulos/00_preliminares.md:7: contenido pendiente.",
+          "capitulos/01_introduccion.md:3: contenido pendiente.",
+          "capitulos/02_planteamiento.md:4: contenido pendiente.",
+          "capitulos/02_planteamiento.md:7: contenido pendiente.",
+          "capitulos/02_planteamiento.md:10: contenido pendiente.",
+          "capitulos/03_marco_teorico.md:4: contenido pendiente.",
+          "capitulos/03_marco_teorico.md:7: contenido pendiente.",
+          "capitulos/03_marco_teorico.md:10: contenido pendiente.",
+          "capitulos/04_metodologia.md:4: contenido pendiente.",
+          "capitulos/04_metodologia.md:7: contenido pendiente.",
+          "capitulos/04_metodologia.md:10: contenido pendiente.",
+          "capitulos/04_metodologia.md:13: contenido pendiente.",
+          "capitulos/05_resultados.md:3: contenido pendiente.",
+          "capitulos/06_discusion.md:3: contenido pendiente.",
+          "capitulos/07_conclusiones.md:3: contenido pendiente.",
+          "capitulos/08_anexos.md:3: contenido pendiente."
+        ],
+        "fuentes_citadas": [],
+        "alcance": "Detector estructural. Debe completarse con lectura semántica de fuentes y capítulos."
+      }
+    }
+  },
+  "informes": {
+    "investigador_fuentes": "14e84e248d44b5db59c2ca5558a0ff68f54c545f1d57a88ac5f5d371f02aea66",
+    "especialista_drenaje": "8babe4dd33772c73580f392dcbb683ebc2544e27ab506b699b05065147e74fca",
+    "especialista_pavimentos": "7645658844a21904f7f41bce693d488c54629a2b52907844d046fe6d974ea3b4",
+    "metodologo": "dcbb533802364e7f368616928bbf8f896a644bd94eefedffbf35b4c033211a50",
+    "estadistico": "fcef3efe76ab569ab94ee7d0d525e2f0136fbe78c771ba4ed06d2172e6df1d29",
+    "revisor_academico": "38ec00664c41691025e7ab49913a3d53eccfbf94dc95e91531f73583e5d4da57"
+  },
+  "integridad_original": true,
+  "copias_registradas": true
+}

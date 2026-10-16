@@ -1,0 +1,1047 @@
+{
+  "version": "1.1.0",
+  "fecha_utc": "2026-10-14T07:11:45.742916+00:00",
+  "alcance": "Instantánea de entrega; no bloqueo para cambios futuros del proyecto. No incluye el propio manifiesto, cachés ni capturas declaradas fuera de distribución.",
+  "archivos": [
+    {
+      "archivo": ".agents/skills/tesis-auditar/SKILL.md",
+      "bytes": 2322,
+      "sha256": "ec51c7496e63c02322b953405d82d37186da92ee4b9fb207acd0a9fc378f1f64"
+    },
+    {
+      "archivo": ".agents/skills/tesis-auditar/agents/openai.yaml",
+      "bytes": 242,
+      "sha256": "51a4189431e908648ad06d6d2d75fe817624940ae2160a304f338fc417fe1dc3"
+    },
+    {
+      "archivo": ".agents/skills/tesis-auditar/references/criterios.md",
+      "bytes": 1044,
+      "sha256": "feb29d0733924f71b28e07267e52759b5c6f1f2f2f5de1ef59b23e6255c605a7"
+    },
+    {
+      "archivo": ".agents/skills/tesis-drenaje/SKILL.md",
+      "bytes": 2518,
+      "sha256": "790514ca433088370be7ec81fee5e8cd810dc711674ee82377842654cb840b95"
+    },
+    {
+      "archivo": ".agents/skills/tesis-drenaje/agents/openai.yaml",
+      "bytes": 243,
+      "sha256": "22d21c37e69bbfc7246d6fd0a2517651cc5239b7ec6d497b153497359d67f8f2"
+    },
+    {
+      "archivo": ".agents/skills/tesis-drenaje/references/criterios.md",
+      "bytes": 1165,
+      "sha256": "a8149eda68e6041ceaf68836da4ce8fd33d45d84802b53b9c150231e2056dec2"
+    },
+    {
+      "archivo": ".agents/skills/tesis-entregables/SKILL.md",
+      "bytes": 2422,
+      "sha256": "e0ed644aae35f62563fd4b79a23fc79473017ddfe7c600959575607746e1be26"
+    },
+    {
+      "archivo": ".agents/skills/tesis-entregables/agents/openai.yaml",
+      "bytes": 249,
+      "sha256": "84cfaf17944f7a30d9793e5cab343cd19b57745b8328a024b5946d06b1921e23"
+    },
+    {
+      "archivo": ".agents/skills/tesis-entregables/references/criterios.md",
+      "bytes": 976,
+      "sha256": "f805541c1fdc83a088b0ef1fdcab84d36e9564219af3b755c75c2ae6516f5475"
+    },
+    {
+      "archivo": ".agents/skills/tesis-estadistica/SKILL.md",
+      "bytes": 2556,
+      "sha256": "7a9a2e836cdbf17e5cb0dde65ff1ff73e375fb925d0104efa1f4145818d5d386"
+    },
+    {
+      "archivo": ".agents/skills/tesis-estadistica/agents/openai.yaml",
+      "bytes": 250,
+      "sha256": "3db48c9a3d9e13ad9b6249f3db2d6abc1c0bea854678bee97e6c8fbb81135784"
+    },
+    {
+      "archivo": ".agents/skills/tesis-estadistica/references/criterios.md",
+      "bytes": 1148,
+      "sha256": "45ad1ce5333731d304864069857101eefd157c27d44ae7eace3738edafb71266"
+    },
+    {
+      "archivo": ".agents/skills/tesis-fuentes/SKILL.md",
+      "bytes": 2567,
+      "sha256": "eb33caadecc9c0b3a0c68573cd29859a0983996a93493807ac88ac7ba2af1072"
+    },
+    {
+      "archivo": ".agents/skills/tesis-fuentes/agents/openai.yaml",
+      "bytes": 243,
+      "sha256": "3752a66e129a90b0dddd4a31cfa0fdd75d8183c0a61fb81cb70ac6e6b531002a"
+    },
+    {
+      "archivo": ".agents/skills/tesis-fuentes/references/criterios.md",
+      "bytes": 1416,
+      "sha256": "0a74cadc93ba76a701406bd1540edd8fe6d27906f35f7c73b8fe5f2ff5dcf844"
+    },
+    {
+      "archivo": ".agents/skills/tesis-metodologia/SKILL.md",
+      "bytes": 2571,
+      "sha256": "a5a843a75bccc83ff87d92b6686d67838ef0d831fd0531b4cc87b4ed30f4a6fe"
+    },
+    {
+      "archivo": ".agents/skills/tesis-metodologia/agents/openai.yaml",
+      "bytes": 257,
+      "sha256": "aaf451ad9d67010349efe584eac01d93a7882e1e2bebeed6bad3e5196ee35d8e"
+    },
+    {
+      "archivo": ".agents/skills/tesis-metodologia/references/criterios.md",
+      "bytes": 1057,
+      "sha256": "11b0e7a7d8cf4f06558cb2b1b2cfaa85000a3e7f55174dbbe3781e11e6061055"
+    },
+    {
+      "archivo": ".agents/skills/tesis-orquestar/SKILL.md",
+      "bytes": 2487,
+      "sha256": "b616dc84699be8721e2a2db5938329dc3345b0822dde29fbfc84d14f58473e50"
+    },
+    {
+      "archivo": ".agents/skills/tesis-orquestar/agents/openai.yaml",
+      "bytes": 242,
+      "sha256": "661926683d5607981bbcd110bb26f3058aba1b689a48f3de145df4e238c83308"
+    },
+    {
+      "archivo": ".agents/skills/tesis-orquestar/references/criterios.md",
+      "bytes": 1074,
+      "sha256": "6c1e52ea706e88b6a3e38b882b31788001ed3d47fc98020f361d0164f12dbaac"
+    },
+    {
+      "archivo": ".agents/skills/tesis-pavimentos-pci/SKILL.md",
+      "bytes": 2390,
+      "sha256": "358f1ac2125e052911120e05b61b51cbf6bc771259eb968ee958dd3d7f3fb429"
+    },
+    {
+      "archivo": ".agents/skills/tesis-pavimentos-pci/agents/openai.yaml",
+      "bytes": 240,
+      "sha256": "7d244d778ea1b65846c2bc232cf294bffa7474f6ff5b69720852031337b1585e"
+    },
+    {
+      "archivo": ".agents/skills/tesis-pavimentos-pci/references/criterios.md",
+      "bytes": 988,
+      "sha256": "511e46b6d5dcb4b4181e5baa10f29251543d2787f192ae3a00f190925e394a0f"
+    },
+    {
+      "archivo": ".agents/skills/tesis-redaccion/SKILL.md",
+      "bytes": 2505,
+      "sha256": "6b93c59aa1bc93951510c4754882e27729d8c5b734aa87a7dacb7a0d6cf54b00"
+    },
+    {
+      "archivo": ".agents/skills/tesis-redaccion/agents/openai.yaml",
+      "bytes": 246,
+      "sha256": "d74ceb44ba6dc9a57bfeb4c5f1d8efdbaafe667a9bc52851d161aeb74e39a31e"
+    },
+    {
+      "archivo": ".agents/skills/tesis-redaccion/references/criterios.md",
+      "bytes": 1063,
+      "sha256": "1161929a61b1bc9669055dc82608ea7fa1c3cb7e750feddf79b02f4a7192b007"
+    },
+    {
+      "archivo": ".codex/agents/especialista_drenaje.toml",
+      "bytes": 3220,
+      "sha256": "d5c36b4fbc0f01b4c011c39080ee5576f2961744edc59df15fd620b983745376"
+    },
+    {
+      "archivo": ".codex/agents/especialista_pavimentos.toml",
+      "bytes": 3001,
+      "sha256": "750f19dbbbb7e63203497e72e63db40d991f19d01211486a44d9a35c6e7ffa55"
+    },
+    {
+      "archivo": ".codex/agents/estadistico.toml",
+      "bytes": 3210,
+      "sha256": "cb4f03737a4a58a796284fd00f31f4c2d898eee3d42de48806fe24e2cd32a3d7"
+    },
+    {
+      "archivo": ".codex/agents/investigador_fuentes.toml",
+      "bytes": 3109,
+      "sha256": "850694b2b0ceed587e6a3a5ed904df462a298d430a0db9df36fe3c7125633b98"
+    },
+    {
+      "archivo": ".codex/agents/metodologo.toml",
+      "bytes": 3173,
+      "sha256": "d09e1af63e51f0bf7087e55b2ab80b42b6168cb5073440c71a4addaef95162f8"
+    },
+    {
+      "archivo": ".codex/agents/revisor_academico.toml",
+      "bytes": 3162,
+      "sha256": "5a8da518864d20e65e28861ff2d208cb1e5b5a7d86e05b94abcfb4611eb5f189"
+    },
+    {
+      "archivo": ".codex/config.toml",
+      "bytes": 401,
+      "sha256": "3bccb65ca28b666809bf116332163cf7af49c199d54e15126351b10b61859c78"
+    },
+    {
+      "archivo": ".gitattributes",
+      "bytes": 180,
+      "sha256": "c7658144d387265d9a1c24c9dcfc2e8c63022f2bea3681570eeabc7776a568b1"
+    },
+    {
+      "archivo": ".gitignore",
+      "bytes": 89,
+      "sha256": "225c5bd3e503c205da459a1a9ac4056e6de92db4239aa18bc61fe182edb3eedd"
+    },
+    {
+      "archivo": "AGENTS.md",
+      "bytes": 6933,
+      "sha256": "c802810af3702d53f2a0e514c533c02893b7f50c161e62465feb6da4d79b0caf"
+    },
+    {
+      "archivo": "DECISIONES.md",
+      "bytes": 2639,
+      "sha256": "5ef2c74665d7730b9c05ce0173941aa372c2f90b2512fb723b47af64d39d784a"
+    },
+    {
+      "archivo": "EMPEZAR_AQUI.md",
+      "bytes": 2558,
+      "sha256": "2539023ec7d79b0ab8fdf6954ee2b9d36aa7cf8778fc162fffa9e3938a7f182b"
+    },
+    {
+      "archivo": "ESTADO.md",
+      "bytes": 1851,
+      "sha256": "a3a0aa89dd325949d7091480379833f8466568c450e09fa6dd93a39d5981f86d"
+    },
+    {
+      "archivo": "HISTORIAL_CAMBIOS.md",
+      "bytes": 1194,
+      "sha256": "bf0e93e44510ea7a1dd3b13a36a483ea63a84a7ff978812244da7a7ecc609550"
+    },
+    {
+      "archivo": "INDICE_ARCHIVOS.md",
+      "bytes": 21298,
+      "sha256": "7d1d75ea5a05c06611dee5481ec90a25a7bf8c2a8a57b0057a6bff13ac9d35e1"
+    },
+    {
+      "archivo": "README.md",
+      "bytes": 4474,
+      "sha256": "3be529e1b047252987e5b2bd62044771696997e39449b02bd48a798da83a00e0"
+    },
+    {
+      "archivo": "VALIDACION_PAQUETE.md",
+      "bytes": 2341,
+      "sha256": "57a393f0a3a51c5a4c8c8058f7aed283b95da6628e9d982308f9e82fd66838a3"
+    },
+    {
+      "archivo": "analisis/resultados/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "capitulos/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "capitulos/00_preliminares.md",
+      "bytes": 365,
+      "sha256": "17bcef8446c2a7591b71b55a45028591b5469b96c172eeb4c81e1ae8868a4384"
+    },
+    {
+      "archivo": "capitulos/01_introduccion.md",
+      "bytes": 168,
+      "sha256": "373ac28206ee5b496911a7e87959e6e55834f71e8b121c47fa73499191ed907b"
+    },
+    {
+      "archivo": "capitulos/02_planteamiento.md",
+      "bytes": 365,
+      "sha256": "6bb5a915916d0e607fde57d8d7bf84168f4fd2343ff2dda5f8fc0776f12ba864"
+    },
+    {
+      "archivo": "capitulos/03_marco_teorico.md",
+      "bytes": 348,
+      "sha256": "d15a08899091e47a1cff0d01bac80b17438d9a06d3a4f4585c359d5967535718"
+    },
+    {
+      "archivo": "capitulos/04_metodologia.md",
+      "bytes": 416,
+      "sha256": "eab9b950af37a551ba29134805b4e0653ab95dfb8d6ef77b032db2fd5c92865d"
+    },
+    {
+      "archivo": "capitulos/05_resultados.md",
+      "bytes": 168,
+      "sha256": "4233768fb8af5b1acb4241bde444146dd9ad415af3cd697924695ae72ad2f147"
+    },
+    {
+      "archivo": "capitulos/06_discusion.md",
+      "bytes": 194,
+      "sha256": "1c70c03b5704febaf34d8bdbb9efc74d91633e23af951c32a3d699b9a5a4c3ab"
+    },
+    {
+      "archivo": "capitulos/07_conclusiones.md",
+      "bytes": 214,
+      "sha256": "f7e05cfada0e383ef22d68ff0b6a9bd915f52acad56d2874d7cc0f26ccf8b827"
+    },
+    {
+      "archivo": "capitulos/08_anexos.md",
+      "bytes": 166,
+      "sha256": "d986c566103fc332a5296b1b9a5e01307fc53babb6e91a68025969a7d0c7ed89"
+    },
+    {
+      "archivo": "config/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "config/plan_analisis.yaml",
+      "bytes": 1003,
+      "sha256": "26964207222a003b4c0184ab0f14ccee4fc3387692358a0e903bbc6508156b08"
+    },
+    {
+      "archivo": "config/proyecto.yaml",
+      "bytes": 1165,
+      "sha256": "23c39720345782e1a0739d5ae2c5faa73a24d302d846f6ede5d89392df81e15e"
+    },
+    {
+      "archivo": "coordinacion/contextos/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_especialista_drenaje.md",
+      "bytes": 1007,
+      "sha256": "b0dfadaba24f424366f8eca838f4f163ed19566c80558b6eff87e9548643a803"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_especialista_pavimentos.md",
+      "bytes": 1022,
+      "sha256": "95cc1a15c3e5fbf19aa2a92f9662860c16e12626bca681285247b7e53a648c28"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_estadistico.md",
+      "bytes": 907,
+      "sha256": "aa2f0d59493ad9e74ea8d13af8ab1d56575ec7bb4f7b1608a9ca5da1c7964f0c"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_insumos.json",
+      "bytes": 918,
+      "sha256": "5f69fe15347cec813742da0939a9cd6a00ff8d7b60193319140312cf1d409eb5"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_investigador_fuentes.md",
+      "bytes": 1013,
+      "sha256": "5663029645d063b3b4d8dff9a7661eb7046b95160972896ca1a3ed45a8c230ca"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_metodologo.md",
+      "bytes": 897,
+      "sha256": "b424f01a57d26ff8c8f1581daf626c9f3b04f58bf6b0a2e763c23cf819e12e27"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_proyecto_entrada.yaml",
+      "bytes": 1165,
+      "sha256": "145addb55326f648f1e4d6241872fc7769259aaf15b61946ab9fa7faece4aada"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_revisor_academico.md",
+      "bytes": 891,
+      "sha256": "e06df97f2b35103063a3f20c686f67466b212bda0b083e7b8dbfafb220a51a30"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_ronda2_completo.json",
+      "bytes": 960,
+      "sha256": "33d8c4a42d4b082b294bb3bf3e2330226497618d6b71bfdb0693d2dd2e8dac09"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_ronda2_inicial.json",
+      "bytes": 834,
+      "sha256": "5858602ae833723d41108683ad28c9bbb3544d34ffc44e368c136b145a4862c2"
+    },
+    {
+      "archivo": "coordinacion/contextos/R001_ronda3_insumos.json",
+      "bytes": 2295,
+      "sha256": "cc6ef112584fcdd0cdbb5e2040d3cc981af1997ead44b71949158dbf78aa4cc2"
+    },
+    {
+      "archivo": "coordinacion/desacuerdos.csv",
+      "bytes": 109,
+      "sha256": "2d88beb9870ae054235049298177426337ff71d4ce898aff13e8b6dd6f92c998"
+    },
+    {
+      "archivo": "coordinacion/revisiones/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/revisiones/PREGUNTAS_AL_ASESOR.md",
+      "bytes": 2379,
+      "sha256": "2f0f04b2914b7a775adf91346d4b27f166df66f838c048efd5200a182a317bc7"
+    },
+    {
+      "archivo": "coordinacion/revisiones/R001_alcance_copias.json",
+      "bytes": 1310,
+      "sha256": "32674487c2d036c2b607cc5e7d30c94100209d232b77ca816b50765ab1a6d45e"
+    },
+    {
+      "archivo": "coordinacion/revisiones/R001_cierre_sesion.md",
+      "bytes": 1605,
+      "sha256": "5ed7611afdeb001418553c036da9072c152b18950290bcd64cc5d55f4b6c686b"
+    },
+    {
+      "archivo": "coordinacion/revisiones/R001_controles_finales.json",
+      "bytes": 3661,
+      "sha256": "b9013a1ac3a1c9999ff8d21e4bb8a628cf9c2ef8b5b5ae87eee2a3dfb1fc2483"
+    },
+    {
+      "archivo": "coordinacion/revisiones/R001_pruebas_software.json",
+      "bytes": 453,
+      "sha256": "23af4c71edb399147ae78a913bdc338f956da1dba8f28d41eda152e454685016"
+    },
+    {
+      "archivo": "coordinacion/revisiones/R001_pruebas_software.txt",
+      "bytes": 4323,
+      "sha256": "5bcc0b0aa136ea46be7368985d2ab5abcf9c7b2e6f9bb07ae0ff339a34fbdb4a"
+    },
+    {
+      "archivo": "coordinacion/revisiones/VALIDACION_1_0_0.md",
+      "bytes": 4116,
+      "sha256": "2c5b6f1ae1591dc7ea49db5a7e471887e1f07a704d1567f95dd81e9e5aed345f"
+    },
+    {
+      "archivo": "coordinacion/revisiones/auditoria_inicial.md",
+      "bytes": 11665,
+      "sha256": "5616d7326180ea7727d6592e6e20786d990edf451f6953dff21a51af53620a56"
+    },
+    {
+      "archivo": "coordinacion/revisiones/cierre_final.yaml",
+      "bytes": 225,
+      "sha256": "da93e48c59af85c22fd6ae293d95b1f7704dc576e3b0422dd8086dd0f76dcd6a"
+    },
+    {
+      "archivo": "coordinacion/salidas/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_drenaje/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_drenaje/informe_auditoria_inicial.md",
+      "bytes": 12208,
+      "sha256": "8babe4dd33772c73580f392dcbb683ebc2544e27ab506b699b05065147e74fca"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_drenaje/propuesta_instrumento.md",
+      "bytes": 7581,
+      "sha256": "38bc38f79b985b86d27dbc56711ec8e1e18944597948716d51042a40fb6eb4e9"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_drenaje/respuesta_revision_cruzada.md",
+      "bytes": 3449,
+      "sha256": "273b6fca702039c72140713e098524462f94eb4f6de803acd04986c061b7ca5d"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_pavimentos/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_pavimentos/informe_auditoria_inicial.md",
+      "bytes": 12380,
+      "sha256": "7645658844a21904f7f41bce693d488c54629a2b52907844d046fe6d974ea3b4"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_pavimentos/propuesta_registro_pci.md",
+      "bytes": 4673,
+      "sha256": "91fec7993ad6270c407828cd94129de54b793101f4e224f3890844ec4203b4a0"
+    },
+    {
+      "archivo": "coordinacion/salidas/especialista_pavimentos/respuesta_revision_cruzada.md",
+      "bytes": 3515,
+      "sha256": "bdfd445834636576e4f67433fd1b4e1ff1d5010d43d6bc64a1458882bd40829a"
+    },
+    {
+      "archivo": "coordinacion/salidas/estadistico/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/estadistico/informe_auditoria_inicial.md",
+      "bytes": 10481,
+      "sha256": "fcef3efe76ab569ab94ee7d0d525e2f0136fbe78c771ba4ed06d2172e6df1d29"
+    },
+    {
+      "archivo": "coordinacion/salidas/estadistico/manifest_revision.json",
+      "bytes": 3664,
+      "sha256": "724a6ebc3feb36d7499474cafb26377bcba984ffd8b64df5bfabaabe0ab0799d"
+    },
+    {
+      "archivo": "coordinacion/salidas/estadistico/propuesta_plan_analisis.md",
+      "bytes": 9477,
+      "sha256": "5011f1dfaf9cc9427395645eb943280b45682566d4b2a5c4e98ce7968fe67372"
+    },
+    {
+      "archivo": "coordinacion/salidas/estadistico/pruebas_selectivas.txt",
+      "bytes": 1348,
+      "sha256": "3f5ce340f7413f259b40ac7261b7eb427710b6e8c7a41a21946c8315f32ba673"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F002_crossref.json",
+      "bytes": 4013,
+      "sha256": "a114e01593a9f6ed7b74939573d14daf87904525045155f89f3eba3c00d03828"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F004_crossref.json",
+      "bytes": 31101,
+      "sha256": "88bbefe1424cf37fb916c49b689bbcc0b755dcd56101610a6872047d51834941"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F005_Diniz_Melo_2023_ES.pdf",
+      "bytes": 568120,
+      "sha256": "4849eaaba70d5f92fbfb1f3306726e3dab7c5c6d87679af88834b9c19b5473a4"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F005_Diniz_Melo_2023_ES.txt",
+      "bytes": 43637,
+      "sha256": "3507f0f915e2871aabd1f5bb611ac746f2265c3b489124d0563bbef4f3f3f785"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F006_crossref.json",
+      "bytes": 22538,
+      "sha256": "15afc459a4c921466f26fb981d8f12ddb3435dc8af840de4a4e173375e314345"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F007_MTC_HHD_2011.pdf",
+      "bytes": 8781738,
+      "sha256": "0a1bdcd7c94016760642de91baf4d6e317e4cc85c529dfefae9a6bf76c8dcd88"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F007_MTC_HHD_2011.txt",
+      "bytes": 427464,
+      "sha256": "18a1e63e68c55023134f4d64bc201f6b338cee80c85eb032a519b95df2b31027"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F009_ElPeruano_DS009_2026.html",
+      "bytes": 273497,
+      "sha256": "377270a780ec33cd98c193521e042971907173fba527bb635c44b1a745b5e925"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F009_ElPeruano_DS009_2026.txt",
+      "bytes": 55635,
+      "sha256": "6e689f0cd01b6bfb92e65ac71bc0d98a3110481a0265c4837066c2611e4d57c5"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F010_MPJ_PDU_resumen.pdf",
+      "bytes": 10558981,
+      "sha256": "c8135c0c7c691021d3a25bb0d84b4f5381afb4bfc15d021e5efcd0bef0029732"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F010_MPJ_PDU_resumen.txt",
+      "bytes": 309936,
+      "sha256": "ccf1b1c35a95e852927567165148db38d07c2db813f8176a736f8b8fdf76b365"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/F012_crossref.json",
+      "bytes": 22219,
+      "sha256": "bf3a32e411b9f6b6e8cc9b51c69274417fd0140d0622c9c07f5c764fd8899b8c"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/capturas_manifest.json",
+      "bytes": 11141,
+      "sha256": "db028531da7c9aeadc8cda25f9ccb720ccaa0f39b3c5f90d4e4852a8f3265d28"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/informe_auditoria_inicial.md",
+      "bytes": 11472,
+      "sha256": "14e84e248d44b5db59c2ca5558a0ff68f54c545f1d57a88ac5f5d371f02aea66"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/inventario_evidencias.json",
+      "bytes": 3052,
+      "sha256": "9e3d4083fa3d62f823294634e07c8ac7ccb4c4284b7b7253341a384803968db7"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/propuesta_verificacion.csv",
+      "bytes": 4382,
+      "sha256": "2136d64a876e604e84f60c8acd10775f27a60302cdea563c71ec90c680455f6c"
+    },
+    {
+      "archivo": "coordinacion/salidas/investigador_fuentes/propuesta_verificacion.json",
+      "bytes": 7699,
+      "sha256": "0e5402b1ba09bed42746ea32729c2beca827b87463f93540b0597e19ea80be12"
+    },
+    {
+      "archivo": "coordinacion/salidas/metodologo/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/metodologo/informe_auditoria_inicial.md",
+      "bytes": 11944,
+      "sha256": "dcbb533802364e7f368616928bbf8f896a644bd94eefedffbf35b4c033211a50"
+    },
+    {
+      "archivo": "coordinacion/salidas/metodologo/insumos_revisados.json",
+      "bytes": 3712,
+      "sha256": "01f475c9b96e7480616ff23fe806ada262ba034af0934e0638f2b1b081dac134"
+    },
+    {
+      "archivo": "coordinacion/salidas/metodologo/propuesta_decisiones_metodologicas.md",
+      "bytes": 8372,
+      "sha256": "a632fa3cab647d4060071f056095a81ddfac1c715b462954d203cec5f8c8149f"
+    },
+    {
+      "archivo": "coordinacion/salidas/revisor_academico/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "coordinacion/salidas/revisor_academico/informe_auditoria_inicial.md",
+      "bytes": 8649,
+      "sha256": "38ec00664c41691025e7ab49913a3d53eccfbf94dc95e91531f73583e5d4da57"
+    },
+    {
+      "archivo": "coordinacion/tareas.csv",
+      "bytes": 3266,
+      "sha256": "58ff18a5301414a2319c1c47e18c95b2dd846f174f7b38b3571aea02c9dd0d47"
+    },
+    {
+      "archivo": "datos/DICCIONARIO.md",
+      "bytes": 2070,
+      "sha256": "371e62152ea35fe4b1e48b2f7a805617f332da97d41080fbe86f393a9e01d796"
+    },
+    {
+      "archivo": "datos/campo/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "datos/campo/contexto.csv",
+      "bytes": 139,
+      "sha256": "9fdc35b2a9a34b18f2d6d488fe1ebd36f78509bf9925249269de68ed9fc575d4"
+    },
+    {
+      "archivo": "datos/campo/drenaje.csv",
+      "bytes": 142,
+      "sha256": "15404086ec40e6546ae8b76441891a39830e789108d925501e62d78d71e5d322"
+    },
+    {
+      "archivo": "datos/campo/evidencias.csv",
+      "bytes": 89,
+      "sha256": "bbba511c19ada91be135ee143e1bf638a62794d4fe5b69ee925c9e9a76e652d0"
+    },
+    {
+      "archivo": "datos/campo/fallas.csv",
+      "bytes": 140,
+      "sha256": "6c8e6d2c006211468206af8d0b406df14d38fde5f29ef841e7dea9453e5e3af1"
+    },
+    {
+      "archivo": "datos/campo/faltantes.csv",
+      "bytes": 70,
+      "sha256": "eb751f5bc439cf009f138d15851489177ab1002f163e4f913dec67f16f6dfedb"
+    },
+    {
+      "archivo": "datos/campo/pares_analisis.csv",
+      "bytes": 155,
+      "sha256": "ed2b421b2e4ec2004797289a2a9c7ea7837b015a93df29b69e2a89bcb09423a1"
+    },
+    {
+      "archivo": "datos/campo/pci.csv",
+      "bytes": 106,
+      "sha256": "4be12012253c59c02a1dc03b6ca4912bf7e940cc88540fe2b196c1ec92fd40f7"
+    },
+    {
+      "archivo": "datos/campo/subtramos.csv",
+      "bytes": 138,
+      "sha256": "540514051f1088ef343ebd97496c5dbeacd7f682af375d6a299dcaf4a4ab1df2"
+    },
+    {
+      "archivo": "datos/originales/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "datos/pares_analisis.schema.json",
+      "bytes": 1183,
+      "sha256": "001b88d268a04307b8243002f1abf333b7caf4b8cb2a1861d6b309a990fe9e50"
+    },
+    {
+      "archivo": "datos/procesados/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "docs/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "docs/AGREGAR_DOCUMENTOS.md",
+      "bytes": 4496,
+      "sha256": "fde0710d4a1e4f3b148e8f737932f3eb612a26675d377fbef5ce7e8d0daadac5"
+    },
+    {
+      "archivo": "docs/CONFIGURACION_CODEX.md",
+      "bytes": 4412,
+      "sha256": "c3a9cee172db60102219614c16bc488e3b5de948936a9e869bcea9882b91a510"
+    },
+    {
+      "archivo": "docs/ENTREGABLES_Y_FORMATO.md",
+      "bytes": 3217,
+      "sha256": "362b4c72416e4ef3cd0311b24d4e885757ba0b65a95347130efc9561979c1256"
+    },
+    {
+      "archivo": "docs/FASES_Y_CRITERIOS.md",
+      "bytes": 2614,
+      "sha256": "e742d7dcaaf12ed08e798433034f7de54bea58ad8c8b25d67971a66c42f3efe6"
+    },
+    {
+      "archivo": "docs/FUENTES_OFICIALES_CODEX.md",
+      "bytes": 1450,
+      "sha256": "6cff6cfd94ef3c2471e8575962802bea6e00e53f05e103dd853a935cdb35f559"
+    },
+    {
+      "archivo": "docs/HERRAMIENTAS.md",
+      "bytes": 2488,
+      "sha256": "d87cdf3fd455c67307031e500684e5cee6800e316a80babd207282dd2dd02fb3"
+    },
+    {
+      "archivo": "docs/INSTALACION.md",
+      "bytes": 2383,
+      "sha256": "d0236323db47bee29bbb1fc16600050b120c14b2691ac019f1a98b9ad0cb50b4"
+    },
+    {
+      "archivo": "docs/METODOLOGIA_Y_DATOS.md",
+      "bytes": 4603,
+      "sha256": "68cb18c48fdb21c5193ab9a48eb2db26328e43c50fe74e585d95b698d9a1a02e"
+    },
+    {
+      "archivo": "docs/PROTOCOLO_COLABORACION.md",
+      "bytes": 3980,
+      "sha256": "9886bc21a8586f3d6c34ea533829dd7cf430cdd2aa9e6b5837d8cbc659697613"
+    },
+    {
+      "archivo": "entregables/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "fuentes/LEER_PRIMERO.md",
+      "bytes": 946,
+      "sha256": "5e2562339624778935bbec2542132cd9e77812c0ab932814819499f6750179d4"
+    },
+    {
+      "archivo": "fuentes/afirmaciones.csv",
+      "bytes": 1217,
+      "sha256": "a01d9cdaa948bfe8d6418ab7b1b37b0240346a5864b148ce988cd27968365990"
+    },
+    {
+      "archivo": "fuentes/documentos/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "fuentes/documentos/F001_metadatos_consultados_R001.json",
+      "bytes": 569,
+      "sha256": "da7c352c03e00492cbff3c557550a19e7d9aa5d1d46995c2a4e92aaf4b186a2f"
+    },
+    {
+      "archivo": "fuentes/documentos/F005_Diniz_Melo_2023_ES.pdf",
+      "bytes": 568120,
+      "sha256": "4849eaaba70d5f92fbfb1f3306726e3dab7c5c6d87679af88834b9c19b5473a4"
+    },
+    {
+      "archivo": "fuentes/documentos/F007_MTC_HHD_2011.pdf",
+      "bytes": 8781738,
+      "sha256": "0a1bdcd7c94016760642de91baf4d6e317e4cc85c529dfefae9a6bf76c8dcd88"
+    },
+    {
+      "archivo": "fuentes/documentos/F009_ElPeruano_DS009_2026.html",
+      "bytes": 273497,
+      "sha256": "377270a780ec33cd98c193521e042971907173fba527bb635c44b1a745b5e925"
+    },
+    {
+      "archivo": "fuentes/documentos/F011_metadatos_consultados_R001.json",
+      "bytes": 599,
+      "sha256": "180c089b08dbd64fd2fe53153ba49695a238e63bf18bca0985d92b8ff1fdde5a"
+    },
+    {
+      "archivo": "fuentes/fichas/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "fuentes/fichas/F001_R001.md",
+      "bytes": 1515,
+      "sha256": "431f731174f77210b712af05728f6ff9214886fff6d0781bd66af3fed388d70e"
+    },
+    {
+      "archivo": "fuentes/fichas/F002_R001.md",
+      "bytes": 1172,
+      "sha256": "31c10655a037dc6f69036da1871eacc249b2b786fd19a90bb7bc0d94eac540cf"
+    },
+    {
+      "archivo": "fuentes/fichas/F003_R001.md",
+      "bytes": 1267,
+      "sha256": "749dfd312072c70185d7ec04ed9aaacffd93854125b31d31debe2e00e999534d"
+    },
+    {
+      "archivo": "fuentes/fichas/F004_R001.md",
+      "bytes": 1234,
+      "sha256": "5fc80860ad69b4af8fe4c713018c414ee2f519853daccbdc7a7c7b403fdc2867"
+    },
+    {
+      "archivo": "fuentes/fichas/F005_R001.md",
+      "bytes": 1601,
+      "sha256": "fa7edaada586bfe722df60721617890bcabc5d9f9babc44d9abc92513718bdf0"
+    },
+    {
+      "archivo": "fuentes/fichas/F006_R001.md",
+      "bytes": 1231,
+      "sha256": "d9dacf8f3c723b9fa4ff725f4ed94f03d0edf072f8ef90e18119203ec00463da"
+    },
+    {
+      "archivo": "fuentes/fichas/F007_R001.md",
+      "bytes": 1281,
+      "sha256": "98e56f82a271bd1d354b260c80a87b9b6aec360933c5da55b7205882eca3b030"
+    },
+    {
+      "archivo": "fuentes/fichas/F008_R001.md",
+      "bytes": 1164,
+      "sha256": "f163e3f547313a6559d6d2e114d1bdd13a8b3f1d2b9365cfebd7eb03698a986a"
+    },
+    {
+      "archivo": "fuentes/fichas/F009_R001.md",
+      "bytes": 1307,
+      "sha256": "f0c030207e771cac15596c9686ba06f2e9e103c8d0428c3ef502870bf2497677"
+    },
+    {
+      "archivo": "fuentes/fichas/F010_R001.md",
+      "bytes": 1295,
+      "sha256": "e99c0fb75c89d8b5a2fbe8e4daf3d00a822cf6a9b5d27ea3ddefdf8b594a5de7"
+    },
+    {
+      "archivo": "fuentes/fichas/F011_R001.md",
+      "bytes": 1607,
+      "sha256": "ecd4cb1e87059a602ade7b5b2f29c8cf2d5bf1e7f4ec456dbd3c3e65fc80a6d3"
+    },
+    {
+      "archivo": "fuentes/fichas/F012_R001.md",
+      "bytes": 1270,
+      "sha256": "c2269106936a238df0be2a91da90b9676ef151ed9fd38276e3492f6ccb4b5e4b"
+    },
+    {
+      "archivo": "fuentes/historico/registro_R001_entrada.csv",
+      "bytes": 4874,
+      "sha256": "a450e8400546c4ea5d5e664a4e026e9186bcf7db1393b346f8002fce12c0b900"
+    },
+    {
+      "archivo": "fuentes/referencias.json",
+      "bytes": 2059,
+      "sha256": "beae34c1876db8fd3201aea5b5473ab6d8d99bcf71ba4b0976a4ada5a662e6ae"
+    },
+    {
+      "archivo": "fuentes/registro.csv",
+      "bytes": 7563,
+      "sha256": "be2a8215c867bf06907a430a439fe5390d00b5477759c31a110e230febe380c2"
+    },
+    {
+      "archivo": "metodologia/escala_drenaje.yaml",
+      "bytes": 481,
+      "sha256": "a500148a97c58bf90de3998fdcbdbae50a76b914fafb3c14bc60453996a415c2"
+    },
+    {
+      "archivo": "metodologia/instrumentos/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "metodologia/matriz_consistencia.csv",
+      "bytes": 1119,
+      "sha256": "0797198d5a68c5719ed104e3667b3d7d83602a30f584dffa9d175cc5b4bf7c81"
+    },
+    {
+      "archivo": "metodologia/operacionalizacion.csv",
+      "bytes": 157,
+      "sha256": "51f843651f260cefd61652599906a2feca3e81aab3416a7717b4cbd88170fb65"
+    },
+    {
+      "archivo": "plantillas/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "plantillas/APROBACION_PLAN.md",
+      "bytes": 431,
+      "sha256": "a347d272abea6df3ecaee1347175edc01d7804eb9ee4d9a8ce3e2b324c346e8c"
+    },
+    {
+      "archivo": "plantillas/CIERRE_SESION.md",
+      "bytes": 403,
+      "sha256": "f7f6819eecec3b3afc59d21e1253c55fa1065291bd00a5563d72c1d4470c56e4"
+    },
+    {
+      "archivo": "plantillas/ENCARGO_AGENTE.md",
+      "bytes": 616,
+      "sha256": "d1ca4c7d4a18c1271a635ffaeef858be08c3c4f8c77366acc274ae05062c74f8"
+    },
+    {
+      "archivo": "plantillas/FICHA_FUENTE.md",
+      "bytes": 590,
+      "sha256": "e63740b58675e271d1c4c232b1d3421eee12c5d80d6ccd8b6f17b373b5663b2a"
+    },
+    {
+      "archivo": "plantillas/INFORME_AGENTE.md",
+      "bytes": 698,
+      "sha256": "8ff0c5e06a8d826fdfefe15b346df95633a9887e034a043663e2741342f89918"
+    },
+    {
+      "archivo": "plantillas/JUSTIFICACION_INDEPENDENCIA.md",
+      "bytes": 364,
+      "sha256": "b7a0d1798af98c8a41e51841217b30c921110a129f81c4e7335a3892f234fed6"
+    },
+    {
+      "archivo": "plantillas/REVISION_FINAL.md",
+      "bytes": 573,
+      "sha256": "f78387cee07285b1d28eaf215d473a5ad80e2f72d3adbf2406edb4099bdfadee"
+    },
+    {
+      "archivo": "plantillas/VALIDACION_INSTRUMENTO.md",
+      "bytes": 525,
+      "sha256": "74336d9d6c8bd53ecfc4cc917a07fa268503e6fb8a6a0924bf731aecebbb004f"
+    },
+    {
+      "archivo": "plantillas/referencia_base.docx",
+      "bytes": 37644,
+      "sha256": "a916a1fcc08707415c96d25b9d25ac0c5e02e5f3dfa5b3700f36a543b14dc677"
+    },
+    {
+      "archivo": "prompts/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "prompts/00_INICIAR_PROYECTO.md",
+      "bytes": 737,
+      "sha256": "22c695a5abb3576e657dffbf6952376026a91f61d6e62689f087a0b6ddcaa745"
+    },
+    {
+      "archivo": "prompts/01_AUDITORIA_INICIAL.md",
+      "bytes": 720,
+      "sha256": "bbfe57c428708d0f1f228d568e3194d89fe977fa562cc39ee2a673438ec46566"
+    },
+    {
+      "archivo": "prompts/02_CERRAR_DISENO.md",
+      "bytes": 527,
+      "sha256": "8cae05a7ad1b450477693733c9f6294003b28cdb4cb6407c83d686e6aebc5f25"
+    },
+    {
+      "archivo": "prompts/03_VALIDAR_Y_PREPARAR_CAMPO.md",
+      "bytes": 464,
+      "sha256": "b06df206777d14a170d87a1852227219734a89697810717c61fe49bc06b7893b"
+    },
+    {
+      "archivo": "prompts/04_ANALIZAR_CAMPO.md",
+      "bytes": 525,
+      "sha256": "a341afe9683c3c217c7c8e0a1349fdbf84c695e5d788d831e121e35dc99be245"
+    },
+    {
+      "archivo": "prompts/05_REDACTAR_CAPITULOS.md",
+      "bytes": 399,
+      "sha256": "18e84ef3874b14c77aae6ed7d1a1b249755f8108bbe49a0b74a445d1bf4ba9e8"
+    },
+    {
+      "archivo": "prompts/06_ENTREGAR_TESIS.md",
+      "bytes": 509,
+      "sha256": "169cf0538d4e02538f74604f98609f82ffee1e6f60b74584b5a06542c73e5f60"
+    },
+    {
+      "archivo": "prompts/07_CONTINUAR_SESION.md",
+      "bytes": 348,
+      "sha256": "3050999c171158a88f82b695a93c1be63d81f074365a1b1cd9bf2c7dda211d50"
+    },
+    {
+      "archivo": "prompts/08_INCORPORAR_DOCUMENTOS.md",
+      "bytes": 1592,
+      "sha256": "2b3c8234ea61a20f899d95c44c8aaf1f8daba2ffc5d08e1e9596384abb2f9753"
+    },
+    {
+      "archivo": "requirements.txt",
+      "bytes": 141,
+      "sha256": "f1aad00dd0051bb790fe68f86ce2a60b6b9cc7e2e4c03dc7aca40b2376a8d442"
+    },
+    {
+      "archivo": "requisitos/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "requisitos/LISTA_REQUISITOS.md",
+      "bytes": 1671,
+      "sha256": "137c81c1abd4a4416bd3906024d5a0268a86750e2f3c858ea88d2cf8c0973c80"
+    },
+    {
+      "archivo": "requisitos/avance_original.pdf",
+      "bytes": 167053,
+      "sha256": "947b2eb9d631236326de6f3ad211d6f2453a13d76ae6245b0f91c8778fbb8415"
+    },
+    {
+      "archivo": "requisitos/avance_texto_extraido.txt",
+      "bytes": 29482,
+      "sha256": "d31457fef78574719f9c18f941b3ff7f53baba89fbcabdb3e0ae74cd98b3bb4d"
+    },
+    {
+      "archivo": "requisitos/integridad_original.json",
+      "bytes": 249,
+      "sha256": "8a01f7f6f64bd5333d56ac87cd071d07b9cbd71db2dfab722047753c329863dd"
+    },
+    {
+      "archivo": "requisitos/registro_documentos.csv",
+      "bytes": 386,
+      "sha256": "06991e88f845dc58b5d55bd3eee3da5af51933a47a5f168254da2f2ad2af0432"
+    },
+    {
+      "archivo": "setup.ps1",
+      "bytes": 1212,
+      "sha256": "af9f351014075642124d5dd65897498386003e8d579989c0cec5ba9ae79995c5"
+    },
+    {
+      "archivo": "setup.sh",
+      "bytes": 398,
+      "sha256": "5c0d07d5defc437a0bb9f8e251a5234ebf37b71c4af63a5f63036752f95df4b7"
+    },
+    {
+      "archivo": "tests/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "tests/fixtures/LEER.md",
+      "bytes": 283,
+      "sha256": "6a411a32451ac9a9d765109484208b0a0ddf48873a717766862a2c340e7e3859"
+    },
+    {
+      "archivo": "tests/fixtures/pares_sinteticos.csv",
+      "bytes": 440,
+      "sha256": "0fb34e10d65b377c2f25c743d3c03589d60b07d307fd3414e2fa7c2974a7e5f8"
+    },
+    {
+      "archivo": "tests/test_tesis.py",
+      "bytes": 12280,
+      "sha256": "a4465de6286d2e6be76418694b95f12543e87a83317c8a2c20e4b8644fd660f1"
+    },
+    {
+      "archivo": "tools/.gitkeep",
+      "bytes": 1,
+      "sha256": "01ba4719c80b6fe911b091a7c05124b64eeece964e09c058ef8f9805daca546b"
+    },
+    {
+      "archivo": "tools/crear_referencia_word.py",
+      "bytes": 2905,
+      "sha256": "abbda56ae924af8cc23b02fa74d63c6bb7f54c969c19d0a7b52ef9ab8a714b94"
+    },
+    {
+      "archivo": "tools/tesis.py",
+      "bytes": 38008,
+      "sha256": "a243222adc2597bbbf54243a958da0220f059f864ec2a02cf63451955940f02d"
+    }
+  ]
+}

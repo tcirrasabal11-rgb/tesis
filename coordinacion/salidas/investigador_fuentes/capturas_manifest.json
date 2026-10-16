@@ -1,0 +1,425 @@
+[
+  {
+    "name": "F001_catalogo_astm.html",
+    "url": "https://store.astm.org/d6433-18.html",
+    "bytes": 286262,
+    "type": "text/html; charset=UTF-8",
+    "sha256": "b3986c6abf9871395f77cfb957536b603ce992d35f0577021a6526d42ca8fd0b"
+  },
+  {
+    "name": "F009_ElPeruano_DS009_2026.html",
+    "url": "https://busquedas.elperuano.pe/dispositivo/NL/2520332-4",
+    "bytes": 273497,
+    "type": "text/html; charset=utf-8",
+    "sha256": "377270a780ec33cd98c193521e042971907173fba527bb635c44b1a745b5e925"
+  },
+  {
+    "name": "F002_crossref.json",
+    "url": "https://api.crossref.org/works/10.28991/cej-2021-03091636",
+    "bytes": 4013,
+    "type": "application/json",
+    "sha256": "a114e01593a9f6ed7b74939573d14daf87904525045155f89f3eba3c00d03828",
+    "title": [
+      "Studying the Effects of Roads Geometry and Design Parameters on the Pavement Drainage System"
+    ],
+    "author": [
+      {
+        "ORCID": "https://orcid.org/0000-0002-9979-0537",
+        "authenticated-orcid": false,
+        "given": "Mohammad",
+        "family": "Awwad",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Civil Engineering Journal"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2021,
+          1,
+          1
+        ]
+      ]
+    },
+    "volume": "7",
+    "issue": "1",
+    "page": "49-58",
+    "link": [
+      {
+        "URL": "https://civilejournal.org/index.php/cej/article/download/2501/pdf",
+        "content-type": "application/pdf",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://civilejournal.org/index.php/cej/article/download/2501/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "name": "F004_crossref.json",
+    "url": "https://api.crossref.org/works/10.1016/j.conbuildmat.2022.129950",
+    "bytes": 31101,
+    "type": "application/json",
+    "sha256": "88bbefe1424cf37fb916c49b689bbcc0b755dcd56101610a6872047d51834941",
+    "title": [
+      "Sustainable pavement drainage systems: Subgrade moisture, subsurface drainage methods and drainage effectiveness"
+    ],
+    "author": [
+      {
+        "given": "Xuanxuan",
+        "family": "Chu",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Ivan",
+        "family": "Campos-Guereta",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Andrew",
+        "family": "Dawson",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Nick",
+        "family": "Thom",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Construction and Building Materials"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2023,
+          1
+        ]
+      ]
+    },
+    "volume": "364",
+    "issue": null,
+    "page": "129950",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0950061822036066?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S0950061822036066?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "name": "F006_crossref.json",
+    "url": "https://api.crossref.org/works/10.1016/j.heliyon.2022.e08942",
+    "bytes": 22538,
+    "type": "application/json",
+    "sha256": "15afc459a4c921466f26fb981d8f12ddb3435dc8af840de4a4e173375e314345",
+    "title": [
+      "Non-stationary analysis for road drainage design under land-use and climate change scenarios"
+    ],
+    "author": [
+      {
+        "given": "Mónica",
+        "family": "Jiménez-U",
+        "sequence": "first",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0002-2806-2954",
+        "authenticated-orcid": false,
+        "given": "Luis E.",
+        "family": "Peña",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0001-8230-6414",
+        "authenticated-orcid": false,
+        "given": "Jesús",
+        "family": "López",
+        "sequence": "additional",
+        "affiliation": [],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Heliyon"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2022,
+          2
+        ]
+      ]
+    },
+    "volume": "8",
+    "issue": "2",
+    "page": "e08942",
+    "link": [
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2405844022002304?httpAccept=text/xml",
+        "content-type": "text/xml",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      },
+      {
+        "URL": "https://api.elsevier.com/content/article/PII:S2405844022002304?httpAccept=text/plain",
+        "content-type": "text/plain",
+        "content-version": "vor",
+        "intended-application": "text-mining"
+      }
+    ]
+  },
+  {
+    "name": "F012_crossref.json",
+    "url": "https://api.crossref.org/works/10.3390/app14051791",
+    "bytes": 22219,
+    "type": "application/json",
+    "sha256": "bf3a32e411b9f6b6e8cc9b51c69274417fd0140d0622c9c07f5c764fd8899b8c",
+    "title": [
+      "A Case Study of Pavement Foundation Support and Drainage Evaluations of Damaged Urban Cement Concrete Roads"
+    ],
+    "author": [
+      {
+        "given": "Weiwei",
+        "family": "Wang",
+        "sequence": "first",
+        "affiliation": [
+          {
+            "name": "Key Laboratory for Special Area Highway Engineering of Ministry of Education, Chang’an University, Xi’an 710064, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Wen",
+        "family": "Xiang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory for Special Area Highway Engineering of Ministry of Education, Chang’an University, Xi’an 710064, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-0577-2117",
+        "authenticated-orcid": false,
+        "given": "Cheng",
+        "family": "Li",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory for Special Area Highway Engineering of Ministry of Education, Chang’an University, Xi’an 710064, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Songli",
+        "family": "Qiu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ningbo Communications Engineering Construction Group Co., Ltd., Ningbo 315099, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Yujin",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Ningbo Communications Engineering Construction Group Co., Ltd., Ningbo 315099, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Xuhao",
+        "family": "Wang",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Key Laboratory for Special Area Highway Engineering of Ministry of Education, Chang’an University, Xi’an 710064, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "ORCID": "https://orcid.org/0000-0003-4454-9225",
+        "authenticated-orcid": false,
+        "given": "Shanshan",
+        "family": "Bu",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "College of Transportation Engineering, Chang’an University, Xi’an 710064, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      },
+      {
+        "given": "Qinghua",
+        "family": "Bian",
+        "sequence": "additional",
+        "affiliation": [
+          {
+            "name": "Gansu Road & Bridge Construction Group Shanjian Technology Company, Lanzhou 730314, China"
+          }
+        ],
+        "role": [
+          {
+            "vocabulary": "crossref",
+            "role": "author"
+          }
+        ]
+      }
+    ],
+    "container-title": [
+      "Applied Sciences"
+    ],
+    "published": {
+      "date-parts": [
+        [
+          2024,
+          2,
+          22
+        ]
+      ]
+    },
+    "volume": "14",
+    "issue": "5",
+    "page": "1791",
+    "link": [
+      {
+        "URL": "https://www.mdpi.com/2076-3417/14/5/1791/pdf",
+        "content-type": "unspecified",
+        "content-version": "vor",
+        "intended-application": "similarity-checking"
+      }
+    ]
+  },
+  {
+    "name": "F003_repositorio.html",
+    "error": "HTTPError: HTTP Error 403: Forbidden"
+  },
+  {
+    "name": "F011_repositorio.html",
+    "url": "https://repositorio.usat.edu.pe/items/27825ffd-919d-4c37-8560-025802895acc",
+    "bytes": 387080,
+    "type": "text/html; charset=utf-8",
+    "sha256": "0f3ff5d02ff3ce23bc01a779e7c59df2192e186d8bda12f9aeed04a32db821fd"
+  },
+  {
+    "name": "F010_MPJ_PDU_resumen.pdf",
+    "url": "https://munijaen.gob.pe/documentos/proyecto1/RESUMEN%20EJECUTIVO.pdf",
+    "bytes": 10558981,
+    "type": "application/pdf",
+    "sha256": "c8135c0c7c691021d3a25bb0d84b4f5381afb4bfc15d021e5efcd0bef0029732",
+    "pages": 128
+  }
+]

@@ -1,0 +1,35 @@
+version: "1.1.0"
+tema: "Relación entre las deficiencias del drenaje pluvial y el deterioro superficial del pavimento en el tramo de la avenida Pakamuros frente al Hospital General de Jaén, 2026"
+autora: "Triksi Catiuska Irrasabal Mejía"
+institucion: "Universidad Politécnica del Perú"
+disciplina: "Ingeniería Civil"
+lugar: "Jaén, Cajamarca, Perú"
+periodo_estudio: 2026
+alcance: correlacional
+diseno: no_experimental_transversal
+variable_drenaje: deficiencias_drenaje_pluvial
+variable_pavimento: deterioro_superficial_pavimento
+indicador_condicion: PCI
+dimensiones_iniciales:
+  - captacion_conduccion
+  - operatividad_mantenimiento
+estado_requisitos: pendiente
+guia_institucional: null
+plantilla_word: null
+archivo_csl: null
+formato_validado: false
+expediente_analisis: null
+asesor: null
+linea_investigacion: null
+fase_actual: F0
+limite_subagentes: 3
+archivos_capitulos:
+  - capitulos/00_preliminares.md
+  - capitulos/01_introduccion.md
+  - capitulos/02_planteamiento.md
+  - capitulos/03_marco_teorico.md
+  - capitulos/04_metodologia.md
+  - capitulos/05_resultados.md
+  - capitulos/06_discusion.md
+  - capitulos/07_conclusiones.md
+  - capitulos/08_anexos.md

@@ -1,0 +1,4 @@
+interface:
+  display_name: "Orquestación de la tesis"
+  short_description: "Coordinar la tesis y sus revisiones"
+  default_prompt: "Usa $tesis-orquestar para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

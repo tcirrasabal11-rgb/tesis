@@ -1,0 +1,1 @@
+Usa $tesis-orquestar. Lee estado y último cierre antes de buscar información nueva. Comprueba si cambiaron insumos, instrumentos o decisiones; retoma la siguiente tarea y respeta sus dependencias. Reutiliza fuentes verificadas que sigan vigentes. Termina un entregable concreto y registra comandos, pruebas, cambios, bloqueos y próxima acción.

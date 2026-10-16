@@ -1,0 +1,4 @@
+interface:
+  display_name: "Fuentes y antecedentes"
+  short_description: "Verificar fuentes y evidencia de la tesis"
+  default_prompt: "Usa $tesis-fuentes para completar el encargo de esta fase y devolver evidencia, entregables y pendientes."

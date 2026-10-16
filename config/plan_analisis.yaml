@@ -1,0 +1,27 @@
+# Solo cambiar a aprobado con evidencia real del asesor/metodólogo.
+estado: pendiente
+aprobado_por: null
+fecha_aprobacion: null
+evidencia_aprobacion: null
+unidad_analisis: subtramo_id
+independencia_justificada: false
+evidencia_independencia: null
+escala_drenaje_validada: false
+evidencia_instrumento: null
+metodo: null # pearson o spearman; debe justificarse antes de inferencia.
+justificacion_metodo: null
+alfa: 0.05 # Propuesta modificable; justificar y aprobar.
+ajuste_multiplicidad: holm # Propuesta para la familia; revisar y aprobar.
+comparaciones:
+  - id: general
+    x: deficiencia_drenaje
+    y: pci
+  - id: captacion_conduccion
+    x: deficiencia_captacion_conduccion
+    y: pci
+  - id: operatividad_mantenimiento
+    x: deficiencia_operatividad_mantenimiento
+    y: pci
+faltantes: excluir_por_par_con_registro
+intervalo_confianza: none # La plantilla no fuerza un IC inadecuado.
+observaciones: "Justificar n y dependencia espacial. No seleccionar método solo por una prueba de normalidad."
